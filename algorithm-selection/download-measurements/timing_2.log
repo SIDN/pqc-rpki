@@ -1,0 +1,663 @@
+[2025-03-04T16:03:09] [INFO] Using the following TALs:
+[2025-03-04T16:03:09] [INFO]   * afrinic
+[2025-03-04T16:03:09] [INFO]   * apnic
+[2025-03-04T16:03:09] [INFO]   * arin
+[2025-03-04T16:03:09] [INFO]   * lacnic
+[2025-03-04T16:03:09] [INFO]   * ripe
+[2025-03-04T16:03:09] [INFO] timing: https://rpki.afrinic.net/repository/AfriNIC.cer, 753100
+[2025-03-04T16:03:10] [INFO] timing: https://rrdp.afrinic.net/notification.xml, 123552
+[2025-03-04T16:03:10] [INFO] timing: https://rpki.apnic.net/repository/apnic-rpki-root-iana-origin.cer, 885934
+[2025-03-04T16:03:10] [INFO] timing: https://rrdp.afrinic.net/8fe3109e-2561-4627-8850-83ab94b9bb91/34321/snapshot.xml, 16543
+[2025-03-04T16:03:10] [INFO] timing: https://rrdp.apnic.net/notification.xml, 57654
+[2025-03-04T16:03:10] [INFO] timing: https://rrdp.apnic.net/39fa2e3d-a39e-4372-bf35-d51958ba8389/124279/snapshot.xml, 15807
+[2025-03-04T16:03:14] [INFO] content size: 44205125, snapshot, 8fe3109e-2561-4627-8850-83ab94b9bb91, 34321
+[2025-03-04T16:03:14] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/3ACA6E42F38811EFA7CE7754762E951A.roa: certificate has expired.
+[2025-03-04T16:03:14] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/6A81817EF38911EF9A5B755B762E951A.roa: certificate has expired.
+[2025-03-04T16:03:14] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/9173D972DB2D11EFB488B4AE762E951A.roa: certificate has expired.
+[2025-03-04T16:03:14] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/ECAE2B2CDB2C11EFA85924AA762E951A.roa: certificate has expired.
+[2025-03-04T16:03:14] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/661DC212F38611EF9B8FA046762E951A.roa: certificate has expired.
+[2025-03-04T16:03:14] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/716FC7F0F2C811EF9A0722B9762E951A.roa: certificate has expired.
+[2025-03-04T16:03:14] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/701B519AF38A11EF9C8B4162762E951A.roa: certificate has expired.
+[2025-03-04T16:03:14] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/84C4CAD2F38E11EFA07BB17E762E951A.roa: certificate has expired.
+[2025-03-04T16:03:14] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/CDA00600F38D11EF8064F778762E951A.roa: certificate has expired.
+[2025-03-04T16:03:14] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/4E2C0384DB2C11EF9AC383A5762E951A.roa: certificate has expired.
+[2025-03-04T16:03:14] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/9AD140BEDB2C11EFB3E1C2A7762E951A.roa: certificate has expired.
+[2025-03-04T16:03:14] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/40700A5ADB2D11EF9E006BAC762E951A.roa: certificate has expired.
+[2025-03-04T16:03:14] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/A7BFE1E0F38C11EF82F6D46F762E951A.roa: certificate has expired.
+[2025-03-04T16:03:15] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/EC4E9AE4F38811EFA1231659762E951A.roa: certificate has expired.
+[2025-03-04T16:03:15] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/30CD8B64F38C11EFB38C866D762E951A.roa: certificate has expired.
+[2025-03-04T16:03:15] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/291BECFCF38D11EFAE2B6374762E951A.roa: certificate has expired.
+[2025-03-04T16:03:15] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/87E19EECF38F11EF98B80084762E951A.roa: certificate has expired.
+[2025-03-04T16:03:15] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/33D802B8F38B11EF868CC766762E951A.roa: certificate has expired.
+[2025-03-04T16:03:15] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/216CF120F38F11EFAEDF4083762E951A.roa: certificate has expired.
+[2025-03-04T16:03:15] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/CD10B330F2C811EFBFB424BD762E951A.roa: certificate has expired.
+[2025-03-04T16:03:15] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/A6C40E52F38B11EFB0A8256B762E951A.roa: certificate has expired.
+[2025-03-04T16:03:15] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/92F86E1C6E0511E8A1B5854BF8AEA228/8B1C453AF38A11EFAF094462762E951A.roa: certificate has expired.
+[2025-03-04T16:03:15] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F36C06CB/D8FF6538D4F311ECB3714BD3F1222468/06392D96808111EFACB35A67762E951A.roa: certificate is not yet valid.
+[2025-03-04T16:03:16] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F36663C2/B390E9E8C78311ECB1982894F1222468/DB465DA6B4E311EFA8F972A4762E951A.roa: certificate is not yet valid.
+[2025-03-04T16:03:16] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F36663C2/B390E9E8C78311ECB1982894F1222468/9F17036CB4E311EFA49155A2762E951A.roa: certificate is not yet valid.
+[2025-03-04T16:03:16] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F361610C/90D847F0B49A11EF9D6E0B60762E951A/FAE9132EBEE311EFA8C67594762E951A.roa: certificate is not yet valid.
+[2025-03-04T16:03:16] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/387FE08EE94911EF83A58C67762E951A.roa: certificate has expired.
+[2025-03-04T16:03:16] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/EE450126E94C11EFB5B85B7F762E951A.roa: certificate has expired.
+[2025-03-04T16:03:16] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/E956E22AE94B11EF91FD5F77762E951A.roa: certificate has expired.
+[2025-03-04T16:03:16] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/35495280E94711EF98FC2A5C762E951A.roa: certificate has expired.
+[2025-03-04T16:03:16] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/F3F9D26CE94D11EFAA128484762E951A.roa: certificate has expired.
+[2025-03-04T16:03:16] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/8B8F2E58E94711EFADB48D5C762E951A.roa: certificate has expired.
+[2025-03-04T16:03:16] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/4029BCBCE94C11EFA5C8F87A762E951A.roa: certificate has expired.
+[2025-03-04T16:03:16] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/91BA22CAE94B11EFBEE1AB76762E951A.roa: certificate has expired.
+[2025-03-04T16:03:16] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/47435BBAE94D11EF940C2680762E951A.roa: certificate has expired.
+[2025-03-04T16:03:16] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/E392C1ACE94A11EF8C7B5472762E951A.roa: certificate has expired.
+[2025-03-04T16:03:16] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/A0683F48E94E11EF90D8E788762E951A.roa: certificate has expired.
+[2025-03-04T16:03:16] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/0D6DB130E95011EF8F5BAB91762E951A.roa: certificate has expired.
+[2025-03-04T16:03:16] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/8D8FB45AE94911EF9432B569762E951A.roa: certificate has expired.
+[2025-03-04T16:03:16] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/DF7E3F8CE94611EFA3509658762E951A.roa: certificate has expired.
+[2025-03-04T16:03:16] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/DF591B84E94711EF92298C60762E951A.roa: certificate has expired.
+[2025-03-04T16:03:17] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/3518445AE94811EFB4E2EF60762E951A.roa: certificate has expired.
+[2025-03-04T16:03:17] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/49EA3752E94E11EF8B5B2088762E951A.roa: certificate has expired.
+[2025-03-04T16:03:17] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/9B309896E94D11EF8A0FBD83762E951A.roa: certificate has expired.
+[2025-03-04T16:03:17] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/97518678E94C11EFAF0DC27B762E951A.roa: certificate has expired.
+[2025-03-04T16:03:17] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/F57A2D3EE94E11EF83CD7D8C762E951A.roa: certificate has expired.
+[2025-03-04T16:03:17] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/8A91B22CE94811EF8CEE2E63762E951A.roa: certificate has expired.
+[2025-03-04T16:03:17] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/7BF827D4E95011EFB0227795762E951A.roa: certificate has expired.
+[2025-03-04T16:03:17] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/3587B856E94A11EF9793116E762E951A.roa: certificate has expired.
+[2025-03-04T16:03:17] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/B1E6DA3AE94F11EF9D4DE590762E951A.roa: certificate has expired.
+[2025-03-04T16:03:17] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/4FE7D1EAE94F11EF8AF8498D762E951A.roa: certificate has expired.
+[2025-03-04T16:03:17] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/3A33A62AE94B11EF87D80573762E951A.roa: certificate has expired.
+[2025-03-04T16:03:17] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/E295EA9CE94811EFBA945165762E951A.roa: certificate has expired.
+[2025-03-04T16:03:17] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F368F2D0/7F4A98EA6E0511E89C0D6E4BF8AEA228/8CEFD59CE94A11EFB3AB6270762E951A.roa: certificate has expired.
+[2025-03-04T16:03:17] [WARN] rsync://rpki.afrinic.net/repository/member_repository/F3613254/C9012ADE023411EFA096505F017001B1/9870DA98AD8511EFAF5F92BE762E951A.roa: certificate is not yet valid.
+[2025-03-04T16:03:18] [INFO] timing: https://rrdp.arin.net/arin-rpki-ta.cer, 722435
+[2025-03-04T16:03:18] [INFO] timing: https://rrdp.arin.net/notification.xml, 159542
+[2025-03-04T16:03:18] [INFO] timing: https://rrdp.arin.net/4a394319-7460-4141-a416-1addb69284ff/103706/snapshot.xml, 318409
+[2025-03-04T16:03:19] [INFO] content size: 66878400, snapshot, 39fa2e3d-a39e-4372-bf35-d51958ba8389, 124279
+[2025-03-04T16:03:27] [INFO] timing: https://rrdp.lacnic.net/ta/rta-lacnic-rpki.cer, 777653
+[2025-03-04T16:03:28] [INFO] timing: https://rrdp.lacnic.net/rrdp/notification.xml, 776221
+[2025-03-04T16:03:29] [INFO] timing: https://rrdp.lacnic.net/rrdp/66b09eea-03c7-435f-bb29-5bee810bd657/162253/d5167c8b7a7c375e/snapshot.xml, 1081611
+[2025-03-04T16:03:37] [INFO] content size: 42093124, snapshot, 66b09eea-03c7-435f-bb29-5bee810bd657, 162253
+[2025-03-04T16:03:41] [INFO] timing: https://rpki.ripe.net/ta/ripe-ncc-ta.cer, 158877
+[2025-03-04T16:03:41] [INFO] timing: https://rrdp.ripe.net/notification.xml, 63768
+[2025-03-04T16:03:41] [INFO] timing: https://rrdp.ripe.net/172322cf-c642-4e6f-806c-bd2375d8001a/113134/snapshot-52bd29f666babf6824676b24225b6ec4570714acd7bfa86b70cecfe054c9c862.xml, 33279
+[2025-03-04T16:04:33] [INFO] content size: 168829751, snapshot, 172322cf-c642-4e6f-806c-bd2375d8001a, 113134
+[2025-03-04T16:05:05] [INFO] timing: https://rrdp-rps.arin.net/notification.xml, 689585
+[2025-03-04T16:05:05] [INFO] timing: https://rrdp-rps.arin.net/222bc4dd-08cd-46c3-b744-f99835520fa4/60898/snapshot.xml, 302914
+[2025-03-04T16:05:06] [INFO] content size: 3759211, snapshot, 222bc4dd-08cd-46c3-b744-f99835520fa4, 60898
+[2025-03-04T16:05:06] [WARN] rsync://rpki-rps.arin.net/repository/8a848adf914e0aa6019159f2fb270ca8/1/ADBE1A0F46F9C77B0D249FD6A438B48B7FB21BCF.mft: certificate has expired.
+[2025-03-04T16:05:06] [WARN] rsync://rpki.apnic.net/repository/B527EF581D6611E2BB468F7C72FD1FF2/rb4aD0b5x3sNJJ_WpDi0i3-yG88.cer: no valid manifest rsync://rpki-rps.arin.net/repository/8a848adf914e0aa6019159f2fb270ca8/1/ADBE1A0F46F9C77B0D249FD6A438B48B7FB21BCF.mft found.
+[2025-03-04T16:05:06] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/08c2f264-23f9-49fb-9d43-f8b50bec9261/notification.xml, 59434
+[2025-03-04T16:05:06] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/08c2f264-23f9-49fb-9d43-f8b50bec9261/e790f563-189d-4719-847f-44fdb428874c/5660/snapshot.xml, 14136
+[2025-03-04T16:05:07] [INFO] content size: 2356297, snapshot, e790f563-189d-4719-847f-44fdb428874c, 5660
+[2025-03-04T16:05:07] [INFO] timing: https://rrdp.paas.rpki.ripe.net/notification.xml, 69935
+[2025-03-04T16:05:07] [INFO] timing: https://rrdp.paas.rpki.ripe.net/1c33ba5d-4e16-448d-9a22-b12599ef1cba/197164/5d1d7670842dd277/snapshot.xml, 21206
+[2025-03-04T16:05:08] [INFO] content size: 11789569, snapshot, 1c33ba5d-4e16-448d-9a22-b12599ef1cba, 197164
+[2025-03-04T16:05:09] [INFO] timing: https://rrdp.sub.apnic.net/notification.xml, 1163660
+[2025-03-04T16:05:09] [INFO] timing: https://rrdp.sub.apnic.net/111797ef-625a-4fe0-9280-a3df53c509f4/1522/snapshot.xml, 385628
+[2025-03-04T16:05:11] [INFO] content size: 755478, snapshot, 111797ef-625a-4fe0-9280-a3df53c509f4, 1522
+[2025-03-04T16:05:11] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/bd48a1fa-3471-4ab2-8508-ad36b96813e4/notification.xml, 11251
+[2025-03-04T16:05:11] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/bd48a1fa-3471-4ab2-8508-ad36b96813e4/be5f8930-8247-40cb-9d48-559e1f1fa93a/1021/snapshot.xml, 12118
+[2025-03-04T16:05:11] [INFO] content size: 46136, snapshot, be5f8930-8247-40cb-9d48-559e1f1fa93a, 1021
+[2025-03-04T16:05:11] [INFO] timing: https://rpki.admin.freerangecloud.com/rrdp/notification.xml, 454581
+[2025-03-04T16:05:11] [INFO] timing: https://rpki.admin.freerangecloud.com/rrdp/9786cbe1-f5e2-4ad0-bf13-b99f68a958d8/8816/b54288b6d1be4cf4/snapshot.xml, 155596
+[2025-03-04T16:05:12] [INFO] content size: 407248, snapshot, 9786cbe1-f5e2-4ad0-bf13-b99f68a958d8, 8816
+[2025-03-04T16:05:13] [INFO] timing: https://rpki.cnnic.cn/rrdp/notify.xml, 948654
+[2025-03-04T16:05:14] [INFO] timing: https://rpki.cnnic.cn/rrdp/d4427960-abb3-49e4-902c-d815a518b867/snapshot/2817727.xml, 236026
+[2025-03-04T16:05:30] [INFO] content size: 4838888, snapshot, d4427960-abb3-49e4-902c-d815a518b867, 2817727
+[2025-03-04T16:05:31] [WARN] rsync://rpki.cnnic.cn/rpki/A9162E3D0000/479/Al4teU5v-uKVus5JEQDj0YuccUE.mft: certificate has expired.
+[2025-03-04T16:05:31] [WARN] rsync://rpki.cnnic.cn/rpki/A9162E3D0000/Al4teU5v-uKVus5JEQDj0YuccUE.cer: no valid manifest rsync://rpki.cnnic.cn/rpki/A9162E3D0000/479/Al4teU5v-uKVus5JEQDj0YuccUE.mft found.
+[2025-03-04T16:05:31] [WARN] rsync://rpki.cnnic.cn/rpki/A9162E3D0000/80/JAYub_eOGiv-CxWIf_OE9ltu6qA.mft: certificate has expired.
+[2025-03-04T16:05:31] [WARN] rsync://rpki.cnnic.cn/rpki/A9162E3D0000/JAYub_eOGiv-CxWIf_OE9ltu6qA.cer: no valid manifest rsync://rpki.cnnic.cn/rpki/A9162E3D0000/80/JAYub_eOGiv-CxWIf_OE9ltu6qA.mft found.
+[2025-03-04T16:05:31] [WARN] rsync://rpki.cnnic.cn/rpki/A9162E3D0000/1663/iuTPeLSd8LLB0p0y5IqUOuT0Gsw.mft: certificate has expired.
+[2025-03-04T16:05:31] [WARN] rsync://rpki.cnnic.cn/rpki/A9162E3D0000/iuTPeLSd8LLB0p0y5IqUOuT0Gsw.cer: no valid manifest rsync://rpki.cnnic.cn/rpki/A9162E3D0000/1663/iuTPeLSd8LLB0p0y5IqUOuT0Gsw.mft found.
+[2025-03-04T16:05:31] [WARN] rsync://rpki.cnnic.cn/rpki/A9162E3D0000/98/yiG6irdU_NZK2pljjW_l5HJTtME.mft: certificate has expired.
+[2025-03-04T16:05:31] [WARN] rsync://rpki.cnnic.cn/rpki/A9162E3D0000/yiG6irdU_NZK2pljjW_l5HJTtME.cer: no valid manifest rsync://rpki.cnnic.cn/rpki/A9162E3D0000/98/yiG6irdU_NZK2pljjW_l5HJTtME.mft found.
+[2025-03-04T16:05:31] [INFO] timing: https://0.sb/rrdp/notification.xml, 29224
+[2025-03-04T16:05:31] [INFO] timing: https://0.sb/rrdp/044b2cba-f82b-4ea7-8277-c0f07266f5c3/37916/dd61ab78f6136a68/snapshot.xml, 14636
+[2025-03-04T16:05:31] [INFO] content size: 188497, snapshot, 044b2cba-f82b-4ea7-8277-c0f07266f5c3, 37916
+[2025-03-04T16:05:31] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/c3cd7c24-12cb-4abc-8fd2-5e2bcbb85ae6/notification.xml, 49397
+[2025-03-04T16:05:31] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/c3cd7c24-12cb-4abc-8fd2-5e2bcbb85ae6/7d81c8e0-e560-4b46-8ebd-89dca0f8ce06/1126/snapshot.xml, 10975
+[2025-03-04T16:05:31] [INFO] content size: 79009, snapshot, 7d81c8e0-e560-4b46-8ebd-89dca0f8ce06, 1126
+[2025-03-04T16:05:31] [WARN] rsync://rpki.sub.apnic.net/repository/A91E54810000/2/FCAB6F8783B3183D2AA0B094970CBC767B75AEDD.mft: certificate has expired.
+[2025-03-04T16:05:31] [WARN] rsync://rpki.apnic.net/repository/B527EF581D6611E2BB468F7C72FD1FF2/_Ktvh4OzGD0qoLCUlwy8dnt1rt0.cer: no valid manifest rsync://rpki.sub.apnic.net/repository/A91E54810000/2/FCAB6F8783B3183D2AA0B094970CBC767B75AEDD.mft found.
+[2025-03-04T16:05:31] [WARN] rsync://rpki.sub.apnic.net/repository/A9150E4D0000/0/6228A3C6D637801692F7D7D48251DAD36A3CDB7F.mft: certificate has expired.
+[2025-03-04T16:05:31] [WARN] rsync://rpki.apnic.net/repository/B527EF581D6611E2BB468F7C72FD1FF2/YiijxtY3gBaS99fUglHa02o8238.cer: no valid manifest rsync://rpki.sub.apnic.net/repository/A9150E4D0000/0/6228A3C6D637801692F7D7D48251DAD36A3CDB7F.mft found.
+[2025-03-04T16:05:31] [INFO] timing: https://rpki.cernet.edu.cn/rrdp/notification.xml, 419701
+[2025-03-04T16:05:32] [INFO] timing: https://rpki.cernet.edu.cn/rrdp/3bec4586-ab0c-491c-bfe5-97c37d1720dc/488/5c12266510dba39d/snapshot.xml, 276721
+[2025-03-04T16:05:32] [INFO] content size: 11472, snapshot, 3bec4586-ab0c-491c-bfe5-97c37d1720dc, 488
+[2025-03-04T16:05:32] [WARN] rsync://rpki.cernet.edu.cn/repo/cernet/1/D1248607B0DDD0A216E8D7FAC5E2C2E7770A1139.mft: certificate has expired.
+[2025-03-04T16:05:32] [WARN] rsync://rpki.apnic.net/repository/B527EF581D6611E2BB468F7C72FD1FF2/0SSGB7Dd0KIW6Nf6xeLC53cKETk.cer: no valid manifest rsync://rpki.cernet.edu.cn/repo/cernet/1/D1248607B0DDD0A216E8D7FAC5E2C2E7770A1139.mft found.
+[2025-03-04T16:05:32] [INFO] content size: 380080072, snapshot, 4a394319-7460-4141-a416-1addb69284ff, 103706
+[2025-03-04T16:05:33] [INFO] timing: https://rpki.rand.apnic.net/rrdp/notification.xml, 1191678
+[2025-03-04T16:05:33] [INFO] timing: https://rpki.rand.apnic.net/rrdp/96c441f4-9169-42ad-80db-439295e122d8/1488/75f20b38feb3e844/snapshot.xml, 582727
+[2025-03-04T16:05:33] [INFO] content size: 25961, snapshot, 96c441f4-9169-42ad-80db-439295e122d8, 1488
+[2025-03-04T16:05:33] [INFO] timing: https://rpki.roa.net/rrdp/notification.xml, 32608
+[2025-03-04T16:05:33] [INFO] timing: https://rpki.roa.net/rrdp/a86fd55d-d6e8-47bf-a661-5a7342942a34/19549/9d218249dcaa51c4/snapshot.xml, 16007
+[2025-03-04T16:05:33] [INFO] content size: 299809, snapshot, a86fd55d-d6e8-47bf-a661-5a7342942a34, 19549
+[2025-03-04T16:05:33] [WARN] RRDP https://oto.wakuwaku.ne.jp/pki/oshirase.xml: error sending request for url (https://oto.wakuwaku.ne.jp/pki/oshirase.xml)
+[2025-03-04T16:05:33] [INFO] RRDP https://oto.wakuwaku.ne.jp/pki/oshirase.xml: Update failed and there is no current copy.
+[2025-03-04T16:05:33] [WARN] rsync://rpki.apnic.net/repository/B527EF581D6611E2BB468F7C72FD1FF2/v2KznsrtsMTvG6syfRqaVFH7iAg.cer: no valid manifest rsync://oto.wakuwaku.ne.jp/pki/simple/2/BF62B39ECAEDB0C4EF1BAB327D1A9A5451FB8808.mft found.
+[2025-03-04T16:05:34] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/708aafaf-00b4-485b-854c-0b32ca30f57b/notification.xml, 11309
+[2025-03-04T16:05:34] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/708aafaf-00b4-485b-854c-0b32ca30f57b/7c2d14ed-ded9-4777-9885-dc9d35403305/1109/snapshot.xml, 11165
+[2025-03-04T16:05:34] [INFO] content size: 19114, snapshot, 7c2d14ed-ded9-4777-9885-dc9d35403305, 1109
+[2025-03-04T16:05:34] [WARN] rsync://rpki-rps.arin.net/repository/8a848adf914e0aa6019159f2fb270ca8/3/9118E5A6BE5E82AE50A9BFA071975F66EC59170F.mft: certificate has expired.
+[2025-03-04T16:05:34] [WARN] rsync://rpki.apnic.net/repository/B527EF581D6611E2BB468F7C72FD1FF2/kRjlpr5egq5Qqb-gcZdfZuxZFw8.cer: no valid manifest rsync://rpki-rps.arin.net/repository/8a848adf914e0aa6019159f2fb270ca8/3/9118E5A6BE5E82AE50A9BFA071975F66EC59170F.mft found.
+[2025-03-04T16:05:39] [WARN] RRDP https://repo-rpki.idnic.net/rrdp/notification.xml: error sending request for url (https://repo-rpki.idnic.net/rrdp/notification.xml)
+[2025-03-04T16:05:39] [INFO] RRDP https://repo-rpki.idnic.net/rrdp/notification.xml: Update failed and there is no current copy.
+[2025-03-04T16:05:39] [WARN] rsync://rpki.apnic.net/repository/B527EF581D6611E2BB468F7C72FD1FF2/uo930h5Y_pyTmmtw4lhWF-GDN2s.cer: no valid manifest rsync://repo-rpki.idnic.net/repo/IDNIC-ID/2/BA8F77D21E58FE9C939A6B70E2585617E183376B.mft found.
+[2025-03-04T16:05:39] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/db9a372a-09bc-4a32-bfe4-8c48e5dbd219/notification.xml, 11612
+[2025-03-04T16:05:39] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/db9a372a-09bc-4a32-bfe4-8c48e5dbd219/af012d70-97a6-4671-8800-0259f8ff833a/996/snapshot.xml, 11401
+[2025-03-04T16:05:39] [INFO] content size: 37849, snapshot, af012d70-97a6-4671-8800-0259f8ff833a, 996
+[2025-03-04T16:05:39] [WARN] rsync://rpki.sub.apnic.net/repository/A91E54810000/0/D988B2DA7F4305F0CDB93BF88B6F5A9DF98D8940.mft: certificate has expired.
+[2025-03-04T16:05:39] [WARN] rsync://rpki.apnic.net/repository/B527EF581D6611E2BB468F7C72FD1FF2/2Yiy2n9DBfDNuTv4i29anfmNiUA.cer: no valid manifest rsync://rpki.sub.apnic.net/repository/A91E54810000/0/D988B2DA7F4305F0CDB93BF88B6F5A9DF98D8940.mft found.
+[2025-03-04T16:05:42] [INFO] timing: https://rrdp.twnic.tw/rrdp/notify.xml, 2547382
+[2025-03-04T16:05:42] [INFO] timing: https://rrdp.twnic.tw/rrdp/71d39673-7062-4036-b080-957aa1b854b3/snapshot/1737125.xml, 274399
+[2025-03-04T16:05:44] [INFO] content size: 8579576, snapshot, 71d39673-7062-4036-b080-957aa1b854b3, 1737125
+[2025-03-04T16:05:45] [WARN] rsync://rpki-rps.arin.net/repository/8a848adf914e0aa6019159f2fb270ca8/0/FDCCEA4A550B41E852B336E71792E53657E4F280.mft: certificate has expired.
+[2025-03-04T16:05:45] [WARN] rsync://rpki.arin.net/repository/arin-rpki-ta/5e4a23ea-e80a-403e-b08c-2171da2157d3/521eb33f-9672-4cd9-acce-137227e971ac/37fe8a4a-3fd3-4ba0-9423-f957bd58bca4/99a8a036db0e8f1d29d003f0fec681f66db1269cde1507e775.cer: no valid manifest rsync://rpki-rps.arin.net/repository/8a848adf914e0aa6019159f2fb270ca8/0/FDCCEA4A550B41E852B336E71792E53657E4F280.mft found.
+[2025-03-04T16:05:45] [INFO] timing: https://rrdp.rp.ki/notification.xml, 273140
+[2025-03-04T16:05:45] [INFO] timing: https://rrdp.rp.ki/697fbe5a-b6ba-4c4f-b343-8dd9dd6a488e/3082/7dbc86cd00429cf4/snapshot.xml, 90588
+[2025-03-04T16:05:46] [INFO] content size: 145200, snapshot, 697fbe5a-b6ba-4c4f-b343-8dd9dd6a488e, 3082
+[2025-03-04T16:05:46] [INFO] timing: https://rpki.owl.net/rrdp/notification.xml, 255918
+[2025-03-04T16:05:46] [INFO] timing: https://rpki.owl.net/rrdp/c4099639-6616-41dd-916c-2f176cf89178/3007/ebc880d5f8c21896/snapshot.xml, 108014
+[2025-03-04T16:05:46] [INFO] content size: 49421, snapshot, c4099639-6616-41dd-916c-2f176cf89178, 3007
+[2025-03-04T16:05:47] [WARN] RRDP https://rrdp.rpki.tianhai.link/rrdp/notification.xml: error sending request for url (https://rrdp.rpki.tianhai.link/rrdp/notification.xml)
+[2025-03-04T16:05:47] [INFO] RRDP https://rrdp.rpki.tianhai.link/rrdp/notification.xml: Update failed and there is no current copy.
+[2025-03-04T16:05:47] [WARN] rsync://rpki.apnic.net/repository/B527EF581D6611E2BB468F7C72FD1FF2/RZ0rg0o7oIwKpnxuV4FGqLH-LC8.cer: no valid manifest rsync://rsync.rpki.tianhai.link/repo/TianhaiRpki/3/459D2B834A3BA08C0AA67C6E578146A8B1FE2C2F.mft found.
+[2025-03-04T16:05:51] [WARN] rsync://rpki-rps.arin.net/repository/8a848ade7fb71aa9017fdd9c5dd324c7/0/EB1DD8AA3E2B6864E06379C751DBFFFCC6418350.mft: certificate has expired.
+[2025-03-04T16:05:51] [WARN] rsync://rpki.arin.net/repository/arin-rpki-ta/5e4a23ea-e80a-403e-b08c-2171da2157d3/746e0111-fafb-430f-b778-d204cfcd99a8/2ca5a56d-90a3-4c85-b992-dc7707a0c884/5014e2cacb8df1ba0203526e05e53901ccd797ab8d1bf9b732.cer: no valid manifest rsync://rpki-rps.arin.net/repository/8a848ade7fb71aa9017fdd9c5dd324c7/0/EB1DD8AA3E2B6864E06379C751DBFFFCC6418350.mft found.
+[2025-03-04T16:05:53] [WARN] rsync://rpki-rps.arin.net/repository/8a848adf850d063e01856ba3bdd43d3c/0/FB251CC7AAB29D28F17756B88E15DC43DC5ACF09.mft: certificate has expired.
+[2025-03-04T16:05:53] [WARN] rsync://rpki.arin.net/repository/arin-rpki-ta/5e4a23ea-e80a-403e-b08c-2171da2157d3/76fe11d4-d352-4994-8f6c-d6c91b0b8415/a816e8ad-9bcc-46da-afd8-70dd97bd0232/69277d0a9b59c125e8d2e720fe983dd0f9ec34ef2ebcaba8f7.cer: no valid manifest rsync://rpki-rps.arin.net/repository/8a848adf850d063e01856ba3bdd43d3c/0/FB251CC7AAB29D28F17756B88E15DC43DC5ACF09.mft found.
+[2025-03-04T16:05:54] [WARN] rsync://rpki.arin.net/repository/arin-rpki-ta/5e4a23ea-e80a-403e-b08c-2171da2157d3/871da40f-793a-4a45-a0a9-978148321a07/279c14a7-c6da-4155-b875-85d75078eb36/dedcb2f7c0c730ab32b7d8f1368980597b93201dc6823703fb.cer: no valid manifest rsync://oto.wakuwaku.ne.jp/pki/sky/1/3B945F6333287806CE60D099BC69E823DBCA62B8.mft found.
+[2025-03-04T16:05:54] [WARN] rsync://rpki-rps.arin.net/repository/8a848ade8baa579c018c63046aa94533/0/A2110BBC490FA9C5E85F6218D333DCDC5E34811D.mft: certificate has expired.
+[2025-03-04T16:05:54] [WARN] rsync://rpki.arin.net/repository/arin-rpki-ta/5e4a23ea-e80a-403e-b08c-2171da2157d3/871da40f-793a-4a45-a0a9-978148321a07/8ac74274-337c-47f6-83af-fa21cf5ab89a/b374b829dac26fa1e198ad68223276cfad70b7fd9c4f07c627.cer: no valid manifest rsync://rpki-rps.arin.net/repository/8a848ade8baa579c018c63046aa94533/0/A2110BBC490FA9C5E85F6218D333DCDC5E34811D.mft found.
+[2025-03-04T16:05:54] [WARN] rsync://rpki-rps.arin.net/repository/8a848adf850d063e01856ba3bdd43d3c/1/73A8BD732D93790878D7033EC4558AFD0D11F932.mft: certificate has expired.
+[2025-03-04T16:05:54] [WARN] rsync://rpki.arin.net/repository/arin-rpki-ta/5e4a23ea-e80a-403e-b08c-2171da2157d3/a73420cb-b3cc-4b03-bda7-1be204933ae5/492b5237-6113-4678-8542-d7f56ce00782/d33bee70df06db3ff547fcc29d8bf4dce054d952dcb7d87edf.cer: no valid manifest rsync://rpki-rps.arin.net/repository/8a848adf850d063e01856ba3bdd43d3c/1/73A8BD732D93790878D7033EC4558AFD0D11F932.mft found.
+[2025-03-04T16:05:54] [WARN] rsync://rpki-rps.arin.net/repository/8a848adf82d5e52101850b65b10b358b/0/B32D014671A08AF0A55B313EAB25A82EDD402A98.mft: certificate has expired.
+[2025-03-04T16:05:54] [WARN] rsync://rpki.arin.net/repository/arin-rpki-ta/5e4a23ea-e80a-403e-b08c-2171da2157d3/a73420cb-b3cc-4b03-bda7-1be204933ae5/5c6babe0-c981-4c51-971c-b56bd0722eb1/ed199e1daadbcd50649091bf3c154099a326233862ce25c671.cer: no valid manifest rsync://rpki-rps.arin.net/repository/8a848adf82d5e52101850b65b10b358b/0/B32D014671A08AF0A55B313EAB25A82EDD402A98.mft found.
+[2025-03-04T16:05:55] [WARN] rsync://rpki.arin.net/repository/arin-rpki-ta/5e4a23ea-e80a-403e-b08c-2171da2157d3/a73420cb-b3cc-4b03-bda7-1be204933ae5/70f5d80c-9daa-4f6f-8f58-181c5f0c4b0a/2a5af74dbbb33a42d3628cf45fd4a146eb9e73a2af91e7e37d.cer: no valid manifest rsync://oto.wakuwaku.ne.jp/pki/202400/0/1B734BF3B5DA8630D7852FBAFADD1B82D8506BC8.mft found.
+[2025-03-04T16:05:56] [WARN] rsync://rpki-rps.arin.net/repository/8a848adf7fb722e9017ffead9f534ac5/0/BFA2750976CA07F56A68976B0F01EB862F17C3B3.mft: certificate has expired.
+[2025-03-04T16:05:56] [WARN] rsync://rpki.arin.net/repository/arin-rpki-ta/5e4a23ea-e80a-403e-b08c-2171da2157d3/f60c9f32-a87c-4339-a2f3-6299a3b02e29/317008f4-3048-4330-a34b-2a36dfe0f036/98eab7485a7a133048028c73f7a33f373837deef9565fa141a.cer: no valid manifest rsync://rpki-rps.arin.net/repository/8a848adf7fb722e9017ffead9f534ac5/0/BFA2750976CA07F56A68976B0F01EB862F17C3B3.mft found.
+[2025-03-04T16:05:59] [WARN] rsync://rpki-rps.arin.net/repository/8a848adf850d063e0185755c91be3f9d/1/67DAC6BFE8CF4F99CC7DE476F2D7C11DD253702A.cer: certificate has expired.
+[2025-03-04T16:06:00] [INFO] timing: https://sakuya.nat.moe/rrdp/notification.xml, 532811
+[2025-03-04T16:06:00] [INFO] timing: https://sakuya.nat.moe/rrdp/44b861a4-fafd-4aae-b3cf-9d8f5375e415/5320/snapshot.xml, 254639
+[2025-03-04T16:06:00] [INFO] content size: 15391, snapshot, 44b861a4-fafd-4aae-b3cf-9d8f5375e415, 5320
+[2025-03-04T16:06:17] [WARN] RRDP https://rpki-repository.nic.ad.jp/rrdp/ap/notification.xml: error sending request for url (https://rpki-repository.nic.ad.jp/rrdp/ap/notification.xml)
+[2025-03-04T16:06:17] [INFO] RRDP https://rpki-repository.nic.ad.jp/rrdp/ap/notification.xml: Update failed and there is no current copy.
+[2025-03-04T16:06:17] [WARN] rsync://rpki.apnic.net/repository/B527EF581D6611E2BB468F7C72FD1FF2/ukQSs19ainFHv8ZntZtSDarH2o8.cer: no valid manifest rsync://rpki-repository.nic.ad.jp/ap/A91A73810000/ukQSs19ainFHv8ZntZtSDarH2o8.mft found.
+[2025-03-04T16:06:17] [WARN] rsync://rpki.apnic.net/repository/B3A24F201D6611E28AC8837C72FD1FF2/b2g-rjmhc4rmyT_fBB8RSOZTTfI.cer: no valid manifest rsync://rpki-repository.nic.ad.jp/ap/A91A73810000/b2g-rjmhc4rmyT_fBB8RSOZTTfI.mft found.
+[2025-03-04T16:06:17] [WARN] rsync://rpki.apnic.net/repository/B3A24F201D6611E28AC8837C72FD1FF2/YPi-nBZiXEJLJp7gbGSoO6uFBtQ.cer: no valid manifest rsync://repo-rpki.idnic.net/repo/IDNIC-ID/1/60F8BE9C16625C424B269EE06C64A83BAB8506D4.mft found.
+[2025-03-04T16:06:17] [WARN] rsync://rpki.apnic.net/repository/B41FE6101D6611E2A62F877C72FD1FF2/yMD7hwR0w-hMq4NZfEaoYsR_iII.cer: no valid manifest rsync://rpki-repository.nic.ad.jp/ap/A91A73810000/yMD7hwR0w-hMq4NZfEaoYsR_iII.mft found.
+[2025-03-04T16:06:17] [WARN] rsync://rpki.apnic.net/repository/B322A5F41D6611E2A3F27F7C72FD1FF2/0ZV-xYwI81uqa_535FqXQLpHH54.cer: no valid manifest rsync://rpki-repository.nic.ad.jp/ap/A91A73810000/0ZV-xYwI81uqa_535FqXQLpHH54.mft found.
+[2025-03-04T16:06:17] [WARN] rsync://rpki.apnic.net/repository/B322A5F41D6611E2A3F27F7C72FD1FF2/EjRfEVrEtipR9SdMVMgehkY70Lo.cer: no valid manifest rsync://repo-rpki.idnic.net/repo/IDNIC-ID/0/12345F115AC4B62A51F5274C54C81E86463BD0BA.mft found.
+[2025-03-04T16:06:18] [INFO] timing: https://rpki.multacom.com/rrdp/notification.xml, 489256
+[2025-03-04T16:06:18] [INFO] timing: https://rpki.multacom.com/rrdp/f00d73b4-e8ae-4786-8163-c0f0767687d4/12400/3be6374f77caaf2d/snapshot.xml, 163396
+[2025-03-04T16:06:18] [INFO] timing: https://rpki-repo.registro.br/rrdp/notification.xml, 729400
+[2025-03-04T16:06:18] [INFO] content size: 22145, snapshot, f00d73b4-e8ae-4786-8163-c0f0767687d4, 12400
+[2025-03-04T16:06:18] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/5440d602-b0ab-436f-a957-dfb487c66bb8/0/D490F856F80E807B7180EF46E3048FC5F28CF832.mft: certificate has expired.
+[2025-03-04T16:06:18] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/1JD4VvgOgHtxgO9G4wSPxfKM-DI.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/5440d602-b0ab-436f-a957-dfb487c66bb8/0/D490F856F80E807B7180EF46E3048FC5F28CF832.mft found.
+[2025-03-04T16:06:18] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/30df2d1b-1498-4686-91bb-64b582010328/0/D6424E531A5AD6AC80AF20F0D6DC2CB187322EC1.mft: certificate has expired.
+[2025-03-04T16:06:18] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/1kJOUxpa1qyAryDw1twssYcyLsE.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/30df2d1b-1498-4686-91bb-64b582010328/0/D6424E531A5AD6AC80AF20F0D6DC2CB187322EC1.mft found.
+[2025-03-04T16:06:18] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/c99265ef-22a9-4100-a23d-51a9d9feeb7d/0/D93EF0701E8CA6ED0A0E6D46A38B8D8CF3091285.mft: certificate has expired.
+[2025-03-04T16:06:18] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/2T7wcB6Mpu0KDm1Go4uNjPMJEoU.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/c99265ef-22a9-4100-a23d-51a9d9feeb7d/0/D93EF0701E8CA6ED0A0E6D46A38B8D8CF3091285.mft found.
+[2025-03-04T16:06:18] [INFO] timing: https://chloe.sobornost.net/rpki/news.xml, 58368
+[2025-03-04T16:06:18] [INFO] timing: https://chloe.sobornost.net/rpki/bd919006-71a6-457c-8a7e-83bafbd1065c/7143/snapshot.xml, 2740
+[2025-03-04T16:06:18] [INFO] content size: 49762, snapshot, bd919006-71a6-457c-8a7e-83bafbd1065c, 7143
+[2025-03-04T16:06:18] [INFO] timing: https://rpki-repo.registro.br/rrdp/028d7943-f75d-4a37-b9ae-51a4c84c5c96/117335/6e550a2ff66b4507/snapshot.xml, 181365
+[2025-03-04T16:06:25] [INFO] content size: 45457963, snapshot, 028d7943-f75d-4a37-b9ae-51a4c84c5c96, 117335
+[2025-03-04T16:06:25] [WARN] rsync://rpki-repo.registro.br/repo/8MAymV989sX8kqJSfKPaWvFJaVGLivjYbnT9RtWAtRqf/0/994D499817907EB8F4D1290AD0C3115D0214B589.mft: certificate has expired.
+[2025-03-04T16:06:25] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/994D499817907EB8F4D1290AD0C3115D0214B589.cer: no valid manifest rsync://rpki-repo.registro.br/repo/8MAymV989sX8kqJSfKPaWvFJaVGLivjYbnT9RtWAtRqf/0/994D499817907EB8F4D1290AD0C3115D0214B589.mft found.
+[2025-03-04T16:06:25] [WARN] rsync://rpki-repo.registro.br/repo/CNpBkius7r6N5WS1XXbUVMdyBxkVcja1Hz6nBjMJnGbM/0/AD72AB44A3531CFD6932D3C0A8DA40F137CAAC01.mft: certificate has expired.
+[2025-03-04T16:06:25] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/AD72AB44A3531CFD6932D3C0A8DA40F137CAAC01.cer: no valid manifest rsync://rpki-repo.registro.br/repo/CNpBkius7r6N5WS1XXbUVMdyBxkVcja1Hz6nBjMJnGbM/0/AD72AB44A3531CFD6932D3C0A8DA40F137CAAC01.mft found.
+[2025-03-04T16:06:25] [WARN] rsync://rpki-repo.registro.br/repo/F4vGE7qWRoAKdakysYtKvgUpLukfFMETSAqfkzFxAdZb/0/87430CCF52566FCFE1A19B4C1F3DDE5C6D6BA149.mft: certificate has expired.
+[2025-03-04T16:06:25] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/87430CCF52566FCFE1A19B4C1F3DDE5C6D6BA149.cer: no valid manifest rsync://rpki-repo.registro.br/repo/F4vGE7qWRoAKdakysYtKvgUpLukfFMETSAqfkzFxAdZb/0/87430CCF52566FCFE1A19B4C1F3DDE5C6D6BA149.mft found.
+[2025-03-04T16:06:25] [WARN] rsync://rpki-repo.registro.br/repo/8GseMLAAXtyeQHYWNvLBCgtRJUFyosWc4TnWxTFBHtrL/0/E54F21ACD06F5B26659FC1A192F97F5439D48FCD.mft: certificate has expired.
+[2025-03-04T16:06:25] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/E54F21ACD06F5B26659FC1A192F97F5439D48FCD.cer: no valid manifest rsync://rpki-repo.registro.br/repo/8GseMLAAXtyeQHYWNvLBCgtRJUFyosWc4TnWxTFBHtrL/0/E54F21ACD06F5B26659FC1A192F97F5439D48FCD.mft found.
+[2025-03-04T16:06:25] [WARN] rsync://rpki-repo.registro.br/repo/4Z2nosUQPbtmBJxWGxFEf1J33ZxU6YjNScsNdP1uPiee/0/202FA7CA4FB68A7F044DBC88811484C065334A74.mft: certificate has expired.
+[2025-03-04T16:06:25] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/202FA7CA4FB68A7F044DBC88811484C065334A74.cer: no valid manifest rsync://rpki-repo.registro.br/repo/4Z2nosUQPbtmBJxWGxFEf1J33ZxU6YjNScsNdP1uPiee/0/202FA7CA4FB68A7F044DBC88811484C065334A74.mft found.
+[2025-03-04T16:06:25] [WARN] rsync://rpki-repo.registro.br/repo/5j2sxcqboioC1nVdd14d6Q887bPycniW9bve1RDwo8UG/1/F5BCA176884EEB5ECB0A2A512AAB32CA462590C9.mft: manifest number is not greater than in stored version. Using stored publication point.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/Fm49kGxNCMffxFq7Kxo87HAhnuVoQfWLXiSUPcVYz7LA/1/BE92508DBF6757ABDFF51EA95A61411D3261EEF3.mft: manifest number is not greater than in stored version. Using stored publication point.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/88K17F618rGJWPDSxijUevMrmuvBoW7EnGWwnYMB5QPS/1/5047F902BACA932C3B81B997C030811D3F845FB9.mft: certificate has expired.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/5047F902BACA932C3B81B997C030811D3F845FB9.cer: no valid manifest rsync://rpki-repo.registro.br/repo/88K17F618rGJWPDSxijUevMrmuvBoW7EnGWwnYMB5QPS/1/5047F902BACA932C3B81B997C030811D3F845FB9.mft found.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/DSijPWYF5ucADh65ivNsY8eykeUY7Pvt3xFVc1dCLZGC/0/11C40A54AEA8862C23E5838BA28E2EC6317D1116.mft: certificate has expired.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/11C40A54AEA8862C23E5838BA28E2EC6317D1116.cer: no valid manifest rsync://rpki-repo.registro.br/repo/DSijPWYF5ucADh65ivNsY8eykeUY7Pvt3xFVc1dCLZGC/0/11C40A54AEA8862C23E5838BA28E2EC6317D1116.mft found.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/AXTFhB56s2xZy1kKEGBF8sV2uNvfYEXRiGYkwiWniKMs/0/0765A0B5728F13A1D2861A3DF4CF1D82FDAEA614.mft: certificate has expired.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/0765A0B5728F13A1D2861A3DF4CF1D82FDAEA614.cer: no valid manifest rsync://rpki-repo.registro.br/repo/AXTFhB56s2xZy1kKEGBF8sV2uNvfYEXRiGYkwiWniKMs/0/0765A0B5728F13A1D2861A3DF4CF1D82FDAEA614.mft found.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/Cj9YncJFmoxj5PKxJC1DnxssKWJ8AhYJY3LZkEKBGVXj/0/8DD8D738AA0EAA0C2D242A7BB2DF31E32A41B822.mft: certificate has expired.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/8DD8D738AA0EAA0C2D242A7BB2DF31E32A41B822.cer: no valid manifest rsync://rpki-repo.registro.br/repo/Cj9YncJFmoxj5PKxJC1DnxssKWJ8AhYJY3LZkEKBGVXj/0/8DD8D738AA0EAA0C2D242A7BB2DF31E32A41B822.mft found.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/ELnYhLVpUKUPfNiEYnfytHcTFQGzbr3NpwbNoQQ6tiCH/1/1C6519ED9E5FBAD331082D21DE33E5958EDD80C4.mft: manifest number is not greater than in stored version. Using stored publication point.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/GvTV6bhv4r6RHMnhnWBcesSd4sgt3rngu9VCqtmdqCY8/0/648C0855082FB44E47607549445757FD4ABB0BD4.mft: certificate has expired.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/648C0855082FB44E47607549445757FD4ABB0BD4.cer: no valid manifest rsync://rpki-repo.registro.br/repo/GvTV6bhv4r6RHMnhnWBcesSd4sgt3rngu9VCqtmdqCY8/0/648C0855082FB44E47607549445757FD4ABB0BD4.mft found.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/2WBMKekR2h39KDGx6cvYaBhRW9TxmPt4me2VL683CUaW/0/340D91D1DC6B13AF4ED3823211FD69C447D525BD.mft: certificate has expired.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/340D91D1DC6B13AF4ED3823211FD69C447D525BD.cer: no valid manifest rsync://rpki-repo.registro.br/repo/2WBMKekR2h39KDGx6cvYaBhRW9TxmPt4me2VL683CUaW/0/340D91D1DC6B13AF4ED3823211FD69C447D525BD.mft found.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/XAebTZaEnWSRUNgM4a4aST8KoE8cmVDp36ReNviFqTP/0/C6F963BAA26ECFF8F75CC00D1BD99E961D6314FA.mft: certificate has expired.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/C6F963BAA26ECFF8F75CC00D1BD99E961D6314FA.cer: no valid manifest rsync://rpki-repo.registro.br/repo/XAebTZaEnWSRUNgM4a4aST8KoE8cmVDp36ReNviFqTP/0/C6F963BAA26ECFF8F75CC00D1BD99E961D6314FA.mft found.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/6ahmpsQfnRn1iFyCyod8a8PXichWgwJaj3eSNVrUq4m/0/3E11375D9F3A525073B73C31D1BB896B20915FCC.mft: certificate has expired.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/3E11375D9F3A525073B73C31D1BB896B20915FCC.cer: no valid manifest rsync://rpki-repo.registro.br/repo/6ahmpsQfnRn1iFyCyod8a8PXichWgwJaj3eSNVrUq4m/0/3E11375D9F3A525073B73C31D1BB896B20915FCC.mft found.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/FAtTXjvrsoSZEfqpgQx65FcGnaco1ENgZmQgFf9BKXQL/0/EAF1B6BE69B930CE4492B01C927F4127684D515A.mft: certificate has expired.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/EAF1B6BE69B930CE4492B01C927F4127684D515A.cer: no valid manifest rsync://rpki-repo.registro.br/repo/FAtTXjvrsoSZEfqpgQx65FcGnaco1ENgZmQgFf9BKXQL/0/EAF1B6BE69B930CE4492B01C927F4127684D515A.mft found.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/GgE4fWojNBXaimcLWVLRqv4j59hvgc9866PtoTPtGkJ2/0/972E69522EA7E06655376241FB13ED39AF30B19D.mft: certificate has expired.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/972E69522EA7E06655376241FB13ED39AF30B19D.cer: no valid manifest rsync://rpki-repo.registro.br/repo/GgE4fWojNBXaimcLWVLRqv4j59hvgc9866PtoTPtGkJ2/0/972E69522EA7E06655376241FB13ED39AF30B19D.mft found.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/5uuDZqgLqYPotEceBsmcS6SeMdwpyqXVuahhvraWtJYz/0/4C0E5583F85FD92E5B21D697990054A242CE2E03.mft: certificate has expired.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/4C0E5583F85FD92E5B21D697990054A242CE2E03.cer: no valid manifest rsync://rpki-repo.registro.br/repo/5uuDZqgLqYPotEceBsmcS6SeMdwpyqXVuahhvraWtJYz/0/4C0E5583F85FD92E5B21D697990054A242CE2E03.mft found.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/8UFNoXJ7PERuAKbv9ubwr7SwwWCLQmv4xfYXHEQMn3Fr/0/E2D9529EB6236E578B142694688E34A5271FE009.mft: certificate has expired.
+[2025-03-04T16:06:26] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/E2D9529EB6236E578B142694688E34A5271FE009.cer: no valid manifest rsync://rpki-repo.registro.br/repo/8UFNoXJ7PERuAKbv9ubwr7SwwWCLQmv4xfYXHEQMn3Fr/0/E2D9529EB6236E578B142694688E34A5271FE009.mft found.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/8PnSv17tou4fKUYKJXkbBM4VeD6vCkcV2uuws2nxfJ1s/0/609592934A0E33AC57311C220A76D5408AC0153F.mft: certificate has expired.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/609592934A0E33AC57311C220A76D5408AC0153F.cer: no valid manifest rsync://rpki-repo.registro.br/repo/8PnSv17tou4fKUYKJXkbBM4VeD6vCkcV2uuws2nxfJ1s/0/609592934A0E33AC57311C220A76D5408AC0153F.mft found.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/HCGMrDJ5bFAYTL6nMkTtDc1JvfgwytZcwrMRn1krRzjG/0/48A5CE43DDF5F691570117B79D047D25F3A4035E.mft: certificate has expired.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/48A5CE43DDF5F691570117B79D047D25F3A4035E.cer: no valid manifest rsync://rpki-repo.registro.br/repo/HCGMrDJ5bFAYTL6nMkTtDc1JvfgwytZcwrMRn1krRzjG/0/48A5CE43DDF5F691570117B79D047D25F3A4035E.mft found.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/CY8UkggCCB2cbcPh6mqHZVWeY3WJYNVrqtUjgPBqAmYT/0/C1AF1A41C801D3497F8CF835145DCC8887BF7309.mft: certificate has expired.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/C1AF1A41C801D3497F8CF835145DCC8887BF7309.cer: no valid manifest rsync://rpki-repo.registro.br/repo/CY8UkggCCB2cbcPh6mqHZVWeY3WJYNVrqtUjgPBqAmYT/0/C1AF1A41C801D3497F8CF835145DCC8887BF7309.mft found.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/A9rFbKoycy9w6yB2fKvKmUkuGRR3vDpkNN9qxu4ofFT9/0/34FF878B6081E776A912EF69DE77676D3D752020.mft: certificate has expired.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/34FF878B6081E776A912EF69DE77676D3D752020.cer: no valid manifest rsync://rpki-repo.registro.br/repo/A9rFbKoycy9w6yB2fKvKmUkuGRR3vDpkNN9qxu4ofFT9/0/34FF878B6081E776A912EF69DE77676D3D752020.mft found.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/9Me782YaZqEwWF3uPEK9kGH7oA8kAsF9Rkiqt6TdjQB9/0/AFA55E041FA0E5D394A1480902275296B12C222A.mft: certificate has expired.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/AFA55E041FA0E5D394A1480902275296B12C222A.cer: no valid manifest rsync://rpki-repo.registro.br/repo/9Me782YaZqEwWF3uPEK9kGH7oA8kAsF9Rkiqt6TdjQB9/0/AFA55E041FA0E5D394A1480902275296B12C222A.mft found.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/G6SYyAxaUbXyCxcYrRCTxyr1LEojnF3vr9egn5CC9Unj/0/1227599B6D6510CDE5F98FDA37D04B88580FB738.mft: certificate has expired.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/1227599B6D6510CDE5F98FDA37D04B88580FB738.cer: no valid manifest rsync://rpki-repo.registro.br/repo/G6SYyAxaUbXyCxcYrRCTxyr1LEojnF3vr9egn5CC9Unj/0/1227599B6D6510CDE5F98FDA37D04B88580FB738.mft found.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/HFeC61ypvTMds8UMuZPpgA3ijbqr51LqjWcfgFo5BQip/0/6BB5D47779C998D7924924980F54C2E604962CE9.mft: certificate has expired.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/6BB5D47779C998D7924924980F54C2E604962CE9.cer: no valid manifest rsync://rpki-repo.registro.br/repo/HFeC61ypvTMds8UMuZPpgA3ijbqr51LqjWcfgFo5BQip/0/6BB5D47779C998D7924924980F54C2E604962CE9.mft found.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/47ssP2DyrbMnaqcGDJyXhpPwWqxsL5TNex17n6dpbhDR/0/CBD3C30166DFD2F8DFF4BBB7566813A35AD4980F.mft: certificate has expired.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/CBD3C30166DFD2F8DFF4BBB7566813A35AD4980F.cer: no valid manifest rsync://rpki-repo.registro.br/repo/47ssP2DyrbMnaqcGDJyXhpPwWqxsL5TNex17n6dpbhDR/0/CBD3C30166DFD2F8DFF4BBB7566813A35AD4980F.mft found.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/7YrTCJdNiPg4skYrtBotPzKFXjfveoccrjYjqqC6GuYW/1/F45C6CE4C4413F6E8DA0DE820A50034741216AB0.mft: manifest number is not greater than in stored version. Using stored publication point.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/6WHmGdQfPFEFPbQf5fH1NrAeh8SoNyHEGbxSSwqdvgYP/1/BCDAEE56DECAD28422F8E711CE91CA2338205CF9.mft: certificate has expired.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/BCDAEE56DECAD28422F8E711CE91CA2338205CF9.cer: no valid manifest rsync://rpki-repo.registro.br/repo/6WHmGdQfPFEFPbQf5fH1NrAeh8SoNyHEGbxSSwqdvgYP/1/BCDAEE56DECAD28422F8E711CE91CA2338205CF9.mft found.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/7e4qENJf8C3EVrY5RPXcMcJLhf2UbfJahyWdJHCTfWkq/0/0AC324E95DDE8107D6C9FCF9C7931D836843F4A4.mft: certificate has expired.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/0AC324E95DDE8107D6C9FCF9C7931D836843F4A4.cer: no valid manifest rsync://rpki-repo.registro.br/repo/7e4qENJf8C3EVrY5RPXcMcJLhf2UbfJahyWdJHCTfWkq/0/0AC324E95DDE8107D6C9FCF9C7931D836843F4A4.mft found.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/ET8zM9CYvxHjxZHaU3C9LgrSndySL4XbLhgV8N3e9vS4/0/4418672372D7B89BAF5317B3C66BDA9B0F826423.mft: certificate has expired.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/4418672372D7B89BAF5317B3C66BDA9B0F826423.cer: no valid manifest rsync://rpki-repo.registro.br/repo/ET8zM9CYvxHjxZHaU3C9LgrSndySL4XbLhgV8N3e9vS4/0/4418672372D7B89BAF5317B3C66BDA9B0F826423.mft found.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/GExZqbg4s5knrsc6VKKzbhafKZD1heRDuKefxajkq4pE/0/BFFAD8E7BC7C5AE17F8CA4AB38216E8FC27AEC39.mft: certificate has expired.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/BFFAD8E7BC7C5AE17F8CA4AB38216E8FC27AEC39.cer: no valid manifest rsync://rpki-repo.registro.br/repo/GExZqbg4s5knrsc6VKKzbhafKZD1heRDuKefxajkq4pE/0/BFFAD8E7BC7C5AE17F8CA4AB38216E8FC27AEC39.mft found.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/5hT7Dhe9ubfqqFRBiNhZ9rcvMmUszj284ao3JpyWN5W9/0/97895F838BCB6B5A4986583A94D5A8FF203198E9.mft: certificate has expired.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/97895F838BCB6B5A4986583A94D5A8FF203198E9.cer: no valid manifest rsync://rpki-repo.registro.br/repo/5hT7Dhe9ubfqqFRBiNhZ9rcvMmUszj284ao3JpyWN5W9/0/97895F838BCB6B5A4986583A94D5A8FF203198E9.mft found.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/Z43feyrjbzeqUCm5VHFNuxer6qcfssvsdcUVcCWdPwF/1/6D599374C17F76D831D6256D6C52867DD4074032.mft: certificate has expired.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/6D599374C17F76D831D6256D6C52867DD4074032.cer: no valid manifest rsync://rpki-repo.registro.br/repo/Z43feyrjbzeqUCm5VHFNuxer6qcfssvsdcUVcCWdPwF/1/6D599374C17F76D831D6256D6C52867DD4074032.mft found.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/Brv3fshLN9xi4v8TYPcMD1fCh9NMkU8kCk3ZUQqbe2qk/1/1B92E5F532F4DB8BC3B6319AF0D8C1D00A986AAE.mft: manifest number is not greater than in stored version. Using stored publication point.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/7X8XGChRSNLLgkwybJbu8B93EwWFYUoGPBdmKbykEmbd/0/BDBA2324901F2A5030A374708C6F757D963E42AA.mft: certificate has expired.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/BDBA2324901F2A5030A374708C6F757D963E42AA.cer: no valid manifest rsync://rpki-repo.registro.br/repo/7X8XGChRSNLLgkwybJbu8B93EwWFYUoGPBdmKbykEmbd/0/BDBA2324901F2A5030A374708C6F757D963E42AA.mft found.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/5qhpYNimS7SbDyhAb1SRjnBNuseBWPYbZF6eyvine43n/0/07E62F47FC2B2973F1DE3D0BAE96308C20E5758C.mft: certificate has expired.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/07E62F47FC2B2973F1DE3D0BAE96308C20E5758C.cer: no valid manifest rsync://rpki-repo.registro.br/repo/5qhpYNimS7SbDyhAb1SRjnBNuseBWPYbZF6eyvine43n/0/07E62F47FC2B2973F1DE3D0BAE96308C20E5758C.mft found.
+[2025-03-04T16:06:27] [WARN] rsync://rpki-repo.registro.br/repo/CVDs6Lem3ghzsSBziGnD5Tqc59GjvKbRxQet3Sd5z1Jn/1/E2B997C368F2437649235F4F07E88EEA4077F3A7.mft: manifest number is not greater than in stored version. Using stored publication point.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/8TzdGKUSZ9vBvKXvJ51gxVr9cWPGMAPKXF3HabockFPg/0/32BB5184133F0AD568627FCE8DA6B0354DCE9BEC.mft: certificate has expired.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/32BB5184133F0AD568627FCE8DA6B0354DCE9BEC.cer: no valid manifest rsync://rpki-repo.registro.br/repo/8TzdGKUSZ9vBvKXvJ51gxVr9cWPGMAPKXF3HabockFPg/0/32BB5184133F0AD568627FCE8DA6B0354DCE9BEC.mft found.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/ErR1SBgMX1CvzEX1iiQs33ySdndB23UGuooUDrC6wNQb/0/FCEF1BDC45038C5AD090942B6F3078F7CE3D19DD.mft: certificate has expired.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/FCEF1BDC45038C5AD090942B6F3078F7CE3D19DD.cer: no valid manifest rsync://rpki-repo.registro.br/repo/ErR1SBgMX1CvzEX1iiQs33ySdndB23UGuooUDrC6wNQb/0/FCEF1BDC45038C5AD090942B6F3078F7CE3D19DD.mft found.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/HPJ96wbRLgvrExuR1LaS5e3NTArGGMEqt1EPPPEwkWMB/0/D8021573B8FDDCB1523C006FA800A7BAC5BA4240.mft: certificate has expired.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/D8021573B8FDDCB1523C006FA800A7BAC5BA4240.cer: no valid manifest rsync://rpki-repo.registro.br/repo/HPJ96wbRLgvrExuR1LaS5e3NTArGGMEqt1EPPPEwkWMB/0/D8021573B8FDDCB1523C006FA800A7BAC5BA4240.mft found.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/2oYMq9NoN8M86iTM9oPpvNQLxQX8GEuPLsMNKyUFBhAe/1/76E18684CB0B1A079ED243908D2E3D3D2B78A1AF.mft: manifest number is not greater than in stored version. Using stored publication point.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/65bP1S2Ffsb76NentzKH9s5Ws6swJVhc7j9o4uLPxUVu/0/FFD6C5FB56F6D62A4CAD09740260CC262A90B013.mft: certificate has expired.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/FFD6C5FB56F6D62A4CAD09740260CC262A90B013.cer: no valid manifest rsync://rpki-repo.registro.br/repo/65bP1S2Ffsb76NentzKH9s5Ws6swJVhc7j9o4uLPxUVu/0/FFD6C5FB56F6D62A4CAD09740260CC262A90B013.mft found.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/GEH7UUpY7TRmEbYWtKdWSVne5gBzxfvNQLyF7WsuabaP/1/801C62756CEAB17FA0153A254E96D04D8EA570B3.mft: certificate has expired.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/801C62756CEAB17FA0153A254E96D04D8EA570B3.cer: no valid manifest rsync://rpki-repo.registro.br/repo/GEH7UUpY7TRmEbYWtKdWSVne5gBzxfvNQLyF7WsuabaP/1/801C62756CEAB17FA0153A254E96D04D8EA570B3.mft found.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/B1Yn2fQjFTZCKqzfpDwrsh9oZWBoUxTW1RppNjEU3ehH/1/27780288A49801FF3F36E0B04D17C61F5804DB92.mft: certificate has expired.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/27780288A49801FF3F36E0B04D17C61F5804DB92.cer: no valid manifest rsync://rpki-repo.registro.br/repo/B1Yn2fQjFTZCKqzfpDwrsh9oZWBoUxTW1RppNjEU3ehH/1/27780288A49801FF3F36E0B04D17C61F5804DB92.mft found.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/6x51inqhgbhbB9SwduF16yZfHPZrkKZbEdfsRyY6DKAe/1/AE1C058909826E8EDF13C554CAA858EC59CA1455.mft: manifest number is not greater than in stored version. Using stored publication point.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/HcfLhkqu7wwQc4FFSWiSdr2Jfb5nCbXumofhfDXPELXx/0/82BD943EADDE8D043442C08B37EFCE567D8A3660.mft: certificate has expired.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/82BD943EADDE8D043442C08B37EFCE567D8A3660.cer: no valid manifest rsync://rpki-repo.registro.br/repo/HcfLhkqu7wwQc4FFSWiSdr2Jfb5nCbXumofhfDXPELXx/0/82BD943EADDE8D043442C08B37EFCE567D8A3660.mft found.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/A3T4ixYQ47sWEzJXijEAZaVUv7GCC1qa8b9zGTx6HVMh/0/38A763EAA2F5787E010A7BEF5E69D86D7DF1D702.mft: certificate has expired.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/38A763EAA2F5787E010A7BEF5E69D86D7DF1D702.cer: no valid manifest rsync://rpki-repo.registro.br/repo/A3T4ixYQ47sWEzJXijEAZaVUv7GCC1qa8b9zGTx6HVMh/0/38A763EAA2F5787E010A7BEF5E69D86D7DF1D702.mft found.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/D82k3YbQfFjchn4QGix5CpaxxFgWfPtp1o5nZF9SH8Xp/0/F0D9276D3C5F1F25EB2A19E266E82ED98196237A.mft: certificate has expired.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/F0D9276D3C5F1F25EB2A19E266E82ED98196237A.cer: no valid manifest rsync://rpki-repo.registro.br/repo/D82k3YbQfFjchn4QGix5CpaxxFgWfPtp1o5nZF9SH8Xp/0/F0D9276D3C5F1F25EB2A19E266E82ED98196237A.mft found.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/p6PvWskwYx2XivX7BGjwurXzybsrGDBCWJaG9hw26gJ/0/9CCBEAFC8FE8C16A2770515F21C0664CA91ECC8E.mft: certificate has expired.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/9CCBEAFC8FE8C16A2770515F21C0664CA91ECC8E.cer: no valid manifest rsync://rpki-repo.registro.br/repo/p6PvWskwYx2XivX7BGjwurXzybsrGDBCWJaG9hw26gJ/0/9CCBEAFC8FE8C16A2770515F21C0664CA91ECC8E.mft found.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/EpWTeD74K3j671LU6turCxYFZhHi6qPzKLHK9g2E1za/0/69823D7679590091792F5A82532AAFFF1FBDB871.mft: certificate has expired.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/69823D7679590091792F5A82532AAFFF1FBDB871.cer: no valid manifest rsync://rpki-repo.registro.br/repo/EpWTeD74K3j671LU6turCxYFZhHi6qPzKLHK9g2E1za/0/69823D7679590091792F5A82532AAFFF1FBDB871.mft found.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/HTnWrcvdycmZ669iKZFrujyHLhbPtwN6kZ334wS4QVLL/0/211BF480C17107F7AE6882CC3FE220E37AFE75F8.mft: certificate has expired.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/211BF480C17107F7AE6882CC3FE220E37AFE75F8.cer: no valid manifest rsync://rpki-repo.registro.br/repo/HTnWrcvdycmZ669iKZFrujyHLhbPtwN6kZ334wS4QVLL/0/211BF480C17107F7AE6882CC3FE220E37AFE75F8.mft found.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/6ZY1J9AATGxHJDTTEJRgnngeB9DpuJuQFs2iccdTJo5y/0/037FAB82E7054F360259EC96E1964A90506F6093.mft: certificate has expired.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/037FAB82E7054F360259EC96E1964A90506F6093.cer: no valid manifest rsync://rpki-repo.registro.br/repo/6ZY1J9AATGxHJDTTEJRgnngeB9DpuJuQFs2iccdTJo5y/0/037FAB82E7054F360259EC96E1964A90506F6093.mft found.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/8FvPpppVPKtcjUzomxrDzARnKKPC3v1YgEganxE9CiJm/0/335754947982AA4BA9BAB5FBEDF022101E9E7C37.mft: certificate has expired.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/335754947982AA4BA9BAB5FBEDF022101E9E7C37.cer: no valid manifest rsync://rpki-repo.registro.br/repo/8FvPpppVPKtcjUzomxrDzARnKKPC3v1YgEganxE9CiJm/0/335754947982AA4BA9BAB5FBEDF022101E9E7C37.mft found.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/CQAdk7fze1c7jh3goB6VopCS8tjQVN1JfNXBZahXVcxj/0/A1E125638591A773701BFD72EE9FA738B6EAA454.mft: certificate has expired.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/A1E125638591A773701BFD72EE9FA738B6EAA454.cer: no valid manifest rsync://rpki-repo.registro.br/repo/CQAdk7fze1c7jh3goB6VopCS8tjQVN1JfNXBZahXVcxj/0/A1E125638591A773701BFD72EE9FA738B6EAA454.mft found.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/FhaukURqdx1a7pMk7fBqDXVJC72PRLrnGHyGSbaM68g3/0/EAC3E8567DB2ABB37844299A31DDE6917346C1BE.mft: certificate has expired.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/EAC3E8567DB2ABB37844299A31DDE6917346C1BE.cer: no valid manifest rsync://rpki-repo.registro.br/repo/FhaukURqdx1a7pMk7fBqDXVJC72PRLrnGHyGSbaM68g3/0/EAC3E8567DB2ABB37844299A31DDE6917346C1BE.mft found.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/9ef7dUe8sk6dR7sozNNLotRkeE5N5xs9QdBL66Rfjpoy/1/EB936D65024E77024A9636ED97CD85CEF11E460E.mft: certificate has expired.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/EB936D65024E77024A9636ED97CD85CEF11E460E.cer: no valid manifest rsync://rpki-repo.registro.br/repo/9ef7dUe8sk6dR7sozNNLotRkeE5N5xs9QdBL66Rfjpoy/1/EB936D65024E77024A9636ED97CD85CEF11E460E.mft found.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/CM61YX48Fxvq9UTK57aGQ5ZfhK1j8pjiohpUKNpekH55/1/4EE0AA39E5673205B615B1337C24E86FBCD3C635.mft: stale manifest
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/4EE0AA39E5673205B615B1337C24E86FBCD3C635.cer: no valid manifest rsync://rpki-repo.registro.br/repo/CM61YX48Fxvq9UTK57aGQ5ZfhK1j8pjiohpUKNpekH55/1/4EE0AA39E5673205B615B1337C24E86FBCD3C635.mft found.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/51MZFJMs7St8CZj3bJkW66gYqftxRJ3VkFGs1c7eS76C/0/1D5955A8F874129F0C236C5E0F4A977609D094F7.mft: certificate has expired.
+[2025-03-04T16:06:28] [WARN] rsync://rpki-repo.registro.br/repo/nicbr_repo/1/1D5955A8F874129F0C236C5E0F4A977609D094F7.cer: no valid manifest rsync://rpki-repo.registro.br/repo/51MZFJMs7St8CZj3bJkW66gYqftxRJ3VkFGs1c7eS76C/0/1D5955A8F874129F0C236C5E0F4A977609D094F7.mft found.
+[2025-03-04T16:06:29] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/3253d973-d5bf-4541-bcc1-276543a25c7d/2/CDC014669D381152AFB94B76936268BFF73E7D50.mft: certificate has expired.
+[2025-03-04T16:06:29] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/81115bc6-10f6-4af3-ba09-8b687a56fbf5/0/CDC014669D381152AFB94B76936268BFF73E7D50.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/3253d973-d5bf-4541-bcc1-276543a25c7d/2/CDC014669D381152AFB94B76936268BFF73E7D50.mft found.
+[2025-03-04T16:06:29] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/378e5eb0-c019-4ff5-b260-4e1638121055/0/E9B75912FCA789B86CCEA3B1E09F1B5BFA84B503.mft: certificate has expired.
+[2025-03-04T16:06:29] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/6bdZEvynibhszqOx4J8bW_qEtQM.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/378e5eb0-c019-4ff5-b260-4e1638121055/0/E9B75912FCA789B86CCEA3B1E09F1B5BFA84B503.mft found.
+[2025-03-04T16:06:29] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/509e44a5-77ff-4426-a7ff-47aed75c6546/0/EF88D7BACD28A6C393BCCC11DC64DDE77B7EC49B.mft: certificate has expired.
+[2025-03-04T16:06:29] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/74jXus0opsOTvMwR3GTd53t-xJs.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/509e44a5-77ff-4426-a7ff-47aed75c6546/0/EF88D7BACD28A6C393BCCC11DC64DDE77B7EC49B.mft found.
+[2025-03-04T16:06:29] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/2feab205-d14b-4a2a-a38a-6be9ee483ace/0/EC6C7177521BD791A07FA0AA12E710B684F06985.mft: certificate has expired.
+[2025-03-04T16:06:29] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/7Gxxd1Ib15Ggf6CqEucQtoTwaYU.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/2feab205-d14b-4a2a-a38a-6be9ee483ace/0/EC6C7177521BD791A07FA0AA12E710B684F06985.mft found.
+[2025-03-04T16:06:48] [WARN] RRDP https://rpki.folf.systems/rrdp/notification.xml: error sending request for url (https://rpki.folf.systems/rrdp/notification.xml)
+[2025-03-04T16:06:48] [INFO] RRDP https://rpki.folf.systems/rrdp/notification.xml: Update failed and there is no current copy.
+[2025-03-04T16:06:48] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/6IPR0jE6FOhln2BKZdZc45o_gms.cer: no valid manifest rsync://rpki.folf.systems/repo/Folf-Systems/0/E883D1D2313A14E8659F604A65D65CE39A3F826B.mft found.
+[2025-03-04T16:06:48] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/c99265ef-22a9-4100-a23d-51a9d9feeb7d/4/5EB2E5DAD0C6996D0A80A7B90F3A2AA60FB1A7AC.mft: certificate has expired.
+[2025-03-04T16:06:48] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/e30de84b-400a-4fd1-ab8a-e7616e245b49/0/5EB2E5DAD0C6996D0A80A7B90F3A2AA60FB1A7AC.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/c99265ef-22a9-4100-a23d-51a9d9feeb7d/4/5EB2E5DAD0C6996D0A80A7B90F3A2AA60FB1A7AC.mft found.
+[2025-03-04T16:06:48] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/b277449f-31b2-4578-a872-4b6e1340504f/0/036E2F88E56C86A436A3C4C7AB770FA78BC686CA.mft: certificate has expired.
+[2025-03-04T16:06:48] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/A24viOVshqQ2o8THq3cPp4vGhso.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/b277449f-31b2-4578-a872-4b6e1340504f/0/036E2F88E56C86A436A3C4C7AB770FA78BC686CA.mft found.
+[2025-03-04T16:06:48] [INFO] timing: https://rpki.as207960.net/rrdp/notification.xml, 160829
+[2025-03-04T16:06:49] [INFO] timing: https://rpki.as207960.net/rrdp/d376fe5b-dba0-4d08-ab92-38dfa036bbe9/14236/27892f7be0cb9c47/snapshot.xml, 396290
+[2025-03-04T16:06:50] [INFO] content size: 189865, snapshot, d376fe5b-dba0-4d08-ab92-38dfa036bbe9, 14236
+[2025-03-04T16:06:50] [INFO] timing: https://rpki-01.pdxnet.uk/rrdp/notification.xml, 50272
+[2025-03-04T16:06:50] [INFO] timing: https://rpki-01.pdxnet.uk/rrdp/1e603317-6ada-44ce-902e-75f38f5bf61a/4763/1771e16466d15a3d/snapshot.xml, 13123
+[2025-03-04T16:06:50] [INFO] content size: 199576, snapshot, 1e603317-6ada-44ce-902e-75f38f5bf61a, 4763
+[2025-03-04T16:06:50] [WARN] rsync://rpki-repo.as207960.net/repo/q-test-ca/0/E42882C5C372E03CCD5EA87BB1B6FFEF1FF1BFF5.mft: certificate has expired.
+[2025-03-04T16:06:50] [WARN] rsync://rpki-repo.as207960.net/repo/rpki_ca_d0f2db99fe1d4b36b9301c821220fe3a/0/E42882C5C372E03CCD5EA87BB1B6FFEF1FF1BFF5.cer: no valid manifest rsync://rpki-repo.as207960.net/repo/q-test-ca/0/E42882C5C372E03CCD5EA87BB1B6FFEF1FF1BFF5.mft found.
+[2025-03-04T16:06:51] [INFO] timing: https://repo.kagl.me/rpki/notification.xml, 565792
+[2025-03-04T16:06:51] [INFO] timing: https://repo.kagl.me/rpki/66cb5519-2097-4067-9da6-b48ba942b960/1082/1ae6b30b5e0006cb/snapshot.xml, 171288
+[2025-03-04T16:06:51] [INFO] content size: 56485, snapshot, 66cb5519-2097-4067-9da6-b48ba942b960, 1082
+[2025-03-04T16:06:52] [INFO] timing: https://rpki.cc/rrdp/notification.xml, 311759
+[2025-03-04T16:06:52] [INFO] timing: https://rpki.cc/rrdp/0cb9803b-9a9f-42ff-a7d5-2e84aa67d985/10611/519770c6bdcc90e0/snapshot.xml, 90738
+[2025-03-04T16:06:52] [INFO] content size: 126116, snapshot, 0cb9803b-9a9f-42ff-a7d5-2e84aa67d985, 10611
+[2025-03-04T16:06:52] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/ENrGqvlAx8X_G4Pso1JtRrpHUJM.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/240ce547-40ef-4f04-95be-088f3bc02503/0/10DAC6AAF940C7C5FF1B83ECA3526D46BA475093.mft found.
+[2025-03-04T16:06:52] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/24cc8de5-4b4b-4276-aa26-8c5580099026/0/130671BB4F638012F828BBA2CCE785C172530C02.mft: certificate has expired.
+[2025-03-04T16:06:52] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/EwZxu09jgBL4KLuizOeFwXJTDAI.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/24cc8de5-4b4b-4276-aa26-8c5580099026/0/130671BB4F638012F828BBA2CCE785C172530C02.mft found.
+[2025-03-04T16:06:52] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/fd30a818-e105-413c-9d00-d36a887eff80/0/1C808584929EC643220D69A77E5E050E1D09D969.mft: certificate has expired.
+[2025-03-04T16:06:52] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/HICFhJKexkMiDWmnfl4FDh0J2Wk.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/fd30a818-e105-413c-9d00-d36a887eff80/0/1C808584929EC643220D69A77E5E050E1D09D969.mft found.
+[2025-03-04T16:06:52] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/e1a3b0bc-c24b-4965-b6fb-5f1c980a2f03/1/214420428AA56E75C6986F3CD74ADC03A1F1FFB2.mft: certificate has expired.
+[2025-03-04T16:06:52] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/IUQgQoqlbnXGmG8810rcA6Hx_7I.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/e1a3b0bc-c24b-4965-b6fb-5f1c980a2f03/1/214420428AA56E75C6986F3CD74ADC03A1F1FFB2.mft found.
+[2025-03-04T16:06:52] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/74c1572c-e97c-4100-aeff-1373f4e9433a/0/277DB6AB779E3D5333C97AB2285B988001C5E0C6.mft: certificate has expired.
+[2025-03-04T16:06:52] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/J322q3eePVMzyXqyKFuYgAHF4MY.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/74c1572c-e97c-4100-aeff-1373f4e9433a/0/277DB6AB779E3D5333C97AB2285B988001C5E0C6.mft found.
+[2025-03-04T16:06:52] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/1bd306b4-e5c3-48f9-b2ee-36a9bdded8c4/1/25BB542055398CAC21DB2407FD8E7D795A10F5ED.mft: certificate has expired.
+[2025-03-04T16:06:52] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/JbtUIFU5jKwh2yQH_Y59eVoQ9e0.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/1bd306b4-e5c3-48f9-b2ee-36a9bdded8c4/1/25BB542055398CAC21DB2407FD8E7D795A10F5ED.mft found.
+[2025-03-04T16:06:52] [WARN] RRDP https://rpkica.mckay.com/rrdp/notify.xml: error sending request for url (https://rpkica.mckay.com/rrdp/notify.xml)
+[2025-03-04T16:06:52] [INFO] RRDP https://rpkica.mckay.com/rrdp/notify.xml: Update failed and there is no current copy.
+[2025-03-04T16:06:52] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/Jp4Tjp_GB5I1RfeaOGhKZNlDmAQ.cer: no valid manifest rsync://rpkica.mckay.com/rpki/MCnet/Jp4Tjp_GB5I1RfeaOGhKZNlDmAQ.mft found.
+[2025-03-04T16:06:52] [INFO] timing: https://repo.rpki.space/rrdp/notification.xml, 28263
+[2025-03-04T16:06:52] [INFO] timing: https://repo.rpki.space/rrdp/1670539b-522e-4b14-8ca6-e45b1949b01c/4818/4ea03d2af5b6f008/snapshot.xml, 8006
+[2025-03-04T16:06:52] [INFO] content size: 214776, snapshot, 1670539b-522e-4b14-8ca6-e45b1949b01c, 4818
+[2025-03-04T16:06:52] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/02c72b7c-f55a-4990-ac8a-633ee1f8e8e1/0/2CABA02127925D9988710EEE5A0A59B004C6B6B1.mft: certificate has expired.
+[2025-03-04T16:06:52] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/LKugISeSXZmIcQ7uWgpZsATGtrE.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/02c72b7c-f55a-4990-ac8a-633ee1f8e8e1/0/2CABA02127925D9988710EEE5A0A59B004C6B6B1.mft found.
+[2025-03-04T16:06:52] [WARN] https://krill.uta.ng:3030/rrdp/notification.xml: Dubious host name. Not using the repository.
+[2025-03-04T16:06:52] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/LL-fXSYB_Kr_-9K07gM_R0pyY1I.cer: no valid manifest rsync://krill.uta.ng/repo/pongery/0/2CBF9F5D2601FCAAFFFBD2B4EE033F474A726352.mft found.
+[2025-03-04T16:06:52] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/330c7f5c-faae-4354-b920-e20bd0425bb9/0/2E1EDE80640C9F484F75DD39C13ED6C70E074A03.mft: certificate has expired.
+[2025-03-04T16:06:52] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/Lh7egGQMn0hPdd05wT7Wxw4HSgM.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/330c7f5c-faae-4354-b920-e20bd0425bb9/0/2E1EDE80640C9F484F75DD39C13ED6C70E074A03.mft found.
+[2025-03-04T16:06:52] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/1a3bb93f-98a4-4c7e-a0e1-8057a4f086c9/0/2AFACA7F316DBE0CFF394F9D5952E52992F185F1.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/6ca811f8-d075-4e50-9bbf-7b2d0907168f/3/2AFACA7F316DBE0CFF394F9D5952E52992F185F1.mft found.
+[2025-03-04T16:06:52] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/OYNX5Wnx1MA9JqdjbgDTareWpwM.cer: no valid manifest rsync://oto.wakuwaku.ne.jp/pki/simple/0/398357E569F1D4C03D26A7636E00D36AB796A703.mft found.
+[2025-03-04T16:06:52] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/PF6HFLzs7s-rxoYPk3TVJNF9eso.cer: no valid manifest rsync://oto.wakuwaku.ne.jp/pki/sky/0/3C5E8714BCECEECFABC6860F9374D524D17D7ACA.mft found.
+[2025-03-04T16:06:52] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/PN7Cc4Sq3lyggJ_W8W0ryhi-tlk.cer: no valid manifest rsync://rsync.rpki.tianhai.link/repo/TianhaiRpki/0/3CDEC27384AADE5CA0809FD6F16D2BCA18BEB659.mft found.
+[2025-03-04T16:06:52] [WARN] rsync://rpki-rps.arin.net/repository/8a848adf914e0aa6019159f2fb270ca8/2/3DE0B78633AAF10A9B22A1E925EEBCD1ED76B0AF.mft: certificate has expired.
+[2025-03-04T16:06:52] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/PeC3hjOq8QqbIqHpJe680e12sK8.cer: no valid manifest rsync://rpki-rps.arin.net/repository/8a848adf914e0aa6019159f2fb270ca8/2/3DE0B78633AAF10A9B22A1E925EEBCD1ED76B0AF.mft found.
+[2025-03-04T16:06:52] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/PjLaO53JVfls8b9YxXSLe4D8t5g.cer: no valid manifest rsync://rsync.rpki.tianhai.link/repo/TianhaiRpki/2/3E32DA3B9DC955F96CF1BF58C5748B7B80FCB798.mft found.
+[2025-03-04T16:06:52] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/02c72b7c-f55a-4990-ac8a-633ee1f8e8e1/1/D3A3D8EF7FC48B73BFAD332A3476A7010F220BEF.mft: certificate has expired.
+[2025-03-04T16:06:52] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/0c70401c-7f41-4a6b-9434-cc80dca093e6/2/D3A3D8EF7FC48B73BFAD332A3476A7010F220BEF.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/02c72b7c-f55a-4990-ac8a-633ee1f8e8e1/1/D3A3D8EF7FC48B73BFAD332A3476A7010F220BEF.mft found.
+[2025-03-04T16:06:52] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/d88b854e-092c-4d79-ac06-af380b08d12b/3/DD6503836A2A3384674C6B0501E95B0AA2A381C9.mft: certificate has expired.
+[2025-03-04T16:06:52] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/0c70401c-7f41-4a6b-9434-cc80dca093e6/2/DD6503836A2A3384674C6B0501E95B0AA2A381C9.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/d88b854e-092c-4d79-ac06-af380b08d12b/3/DD6503836A2A3384674C6B0501E95B0AA2A381C9.mft found.
+[2025-03-04T16:06:52] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/967a255c-d680-42d3-9ec3-ecb3f9da088c/notification.xml, 12423
+[2025-03-04T16:06:52] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/967a255c-d680-42d3-9ec3-ecb3f9da088c/50656cf5-c3aa-45bf-8de3-7c9fa8af5322/3095/snapshot.xml, 12158
+[2025-03-04T16:06:52] [INFO] content size: 350834, snapshot, 50656cf5-c3aa-45bf-8de3-7c9fa8af5322, 3095
+[2025-03-04T16:06:52] [INFO] timing: https://rpki.sn-p.io/rrdp/notification.xml, 35623
+[2025-03-04T16:06:52] [INFO] timing: https://rpki.sn-p.io/rrdp/a9b5b05c-ecd2-42f8-af25-398e0e4ecbd5/1081/1be757508d8319a0/snapshot.xml, 11296
+[2025-03-04T16:06:52] [INFO] content size: 21907, snapshot, a9b5b05c-ecd2-42f8-af25-398e0e4ecbd5, 1081
+[2025-03-04T16:06:52] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/SvoHcYEuZjfYsYof9Q9B80mGaak.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/32bfd357-d83b-400a-8c46-4fbd1119f4a3/2/4AFA0771812E6637D8B18A1FF50F41F3498669A9.mft found.
+[2025-03-04T16:06:53] [INFO] timing: https://rpki.nellicus.net/rrdp/notification.xml, 452196
+[2025-03-04T16:06:53] [INFO] timing: https://rpki.nellicus.net/rrdp/567b6664-36cc-463d-aa2a-aa9239cb749c/262/88d80df245c432ae/snapshot.xml, 179439
+[2025-03-04T16:06:53] [INFO] content size: 24363, snapshot, 567b6664-36cc-463d-aa2a-aa9239cb749c, 262
+[2025-03-04T16:06:53] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/ad0eb3cf-9a1b-4112-a607-ae98c2ab12a7/0/52F4CAA87D081FC25DDF117BE8A9FE990AA120BC.mft: certificate has expired.
+[2025-03-04T16:06:53] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/UvTKqH0IH8Jd3xF76Kn-mQqhILw.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/ad0eb3cf-9a1b-4112-a607-ae98c2ab12a7/0/52F4CAA87D081FC25DDF117BE8A9FE990AA120BC.mft found.
+[2025-03-04T16:06:59] [WARN] RRDP https://rpki.athene-center.net/rrdp/notification.xml: error sending request for url (https://rpki.athene-center.net/rrdp/notification.xml)
+[2025-03-04T16:06:59] [INFO] RRDP https://rpki.athene-center.net/rrdp/notification.xml: Update failed and there is no current copy.
+[2025-03-04T16:06:59] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/7gktbstSvJmjn6ZnevvunkG64Nk.cer: no valid manifest rsync://rpki.athene-center.net/repo/rpki-athene-center/0/EE092D6ECB52BC99A39FA6677AFBEE9E41BAE0D9.mft found.
+[2025-03-04T16:06:59] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/d08bc49d-0338-4b5f-8204-0004a66105c9/0/5511F6D7DEF4C0FFB6E2B3B3F0C4455DCD14C160.mft: certificate has expired.
+[2025-03-04T16:06:59] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/VRH21970wP-24rOz8MRFXc0UwWA.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/d08bc49d-0338-4b5f-8204-0004a66105c9/0/5511F6D7DEF4C0FFB6E2B3B3F0C4455DCD14C160.mft found.
+[2025-03-04T16:06:59] [WARN] RRDP https://rpki.netiface.net/rrdp/notification.xml: error sending request for url (https://rpki.netiface.net/rrdp/notification.xml)
+[2025-03-04T16:06:59] [INFO] RRDP https://rpki.netiface.net/rrdp/notification.xml: Update failed and there is no current copy.
+[2025-03-04T16:06:59] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/WT6ByS75j5EwrENkGq6AIlRun0o.cer: no valid manifest rsync://rpki.netiface.net/repo/Civilized/0/593E81C92EF98F9130AC43641AAE8022546E9F4A.mft found.
+[2025-03-04T16:06:59] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/2fd217e5-c782-4d25-94dc-3db07c111f3a/0/5CF576CE86F9582DD0319A4E9A25ECDB7B35EC38.mft: certificate has expired.
+[2025-03-04T16:06:59] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/XPV2zob5WC3QMZpOmiXs23s17Dg.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/2fd217e5-c782-4d25-94dc-3db07c111f3a/0/5CF576CE86F9582DD0319A4E9A25ECDB7B35EC38.mft found.
+[2025-03-04T16:06:59] [INFO] timing: https://rpki.xindi.eu/rrdp/notification.xml, 229908
+[2025-03-04T16:06:59] [INFO] timing: https://rpki.xindi.eu/rrdp/7942b57b-6403-4e70-8753-f0017937938c/1539/13aba87ec602ed12/snapshot.xml, 5737
+[2025-03-04T16:06:59] [INFO] content size: 44547, snapshot, 7942b57b-6403-4e70-8753-f0017937938c, 1539
+[2025-03-04T16:06:59] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/ad0eb3cf-9a1b-4112-a607-ae98c2ab12a7/3/FC5EF1F664F6BB0E1AF7BDA53D67E0589B895E1F.mft: certificate has expired.
+[2025-03-04T16:06:59] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/_F7x9mT2uw4a972lPWfgWJuJXh8.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/ad0eb3cf-9a1b-4112-a607-ae98c2ab12a7/3/FC5EF1F664F6BB0E1AF7BDA53D67E0589B895E1F.mft found.
+[2025-03-04T16:06:59] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/d88b854e-092c-4d79-ac06-af380b08d12b/2/FD7A8C110A628469378572A2918653F6F8D726D2.mft: certificate has expired.
+[2025-03-04T16:06:59] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/_XqMEQpihGk3hXKikYZT9vjXJtI.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/d88b854e-092c-4d79-ac06-af380b08d12b/2/FD7A8C110A628469378572A2918653F6F8D726D2.mft found.
+[2025-03-04T16:06:59] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/9af6c38e-8050-483d-a2cb-a61c9e2aa468/0/6827F6047A800EBE4B0DC6299C084EF05E0AAADE.mft: certificate has expired.
+[2025-03-04T16:06:59] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/aCf2BHqADr5LDcYpnAhO8F4Kqt4.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/9af6c38e-8050-483d-a2cb-a61c9e2aa468/0/6827F6047A800EBE4B0DC6299C084EF05E0AAADE.mft found.
+[2025-03-04T16:06:59] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/d3cc54ec-b5e4-4034-9a1e-67acd205bbb3/9/696DD3C41B77EDBBDD37D7E4D020039D402D4B85.mft: certificate has expired.
+[2025-03-04T16:06:59] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/aW3TxBt37bvdN9fk0CADnUAtS4U.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/d3cc54ec-b5e4-4034-9a1e-67acd205bbb3/9/696DD3C41B77EDBBDD37D7E4D020039D402D4B85.mft found.
+[2025-03-04T16:06:59] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/22a80682-c54c-4d5a-9456-b23925309732/1/6A3130ACFBFBA9017ADDEF637ACD312FC763829A.mft: certificate has expired.
+[2025-03-04T16:06:59] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/ajEwrPv7qQF63e9jes0xL8djgpo.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/22a80682-c54c-4d5a-9456-b23925309732/1/6A3130ACFBFBA9017ADDEF637ACD312FC763829A.mft found.
+[2025-03-04T16:06:59] [INFO] timing: https://ca.rg.net/rrdp/notify.xml, 452011
+[2025-03-04T16:06:59] [INFO] timing: https://ca.rg.net/rrdp/eaf7cb9c-717a-4c02-b683-4ee3820ab3d0/snapshot/91934.xml, 107324
+[2025-03-04T16:07:00] [INFO] content size: 25707, snapshot, eaf7cb9c-717a-4c02-b683-4ee3820ab3d0, 91934
+[2025-03-04T16:07:00] [INFO] timing: https://rpki.pudu.be/rrdp/notification.xml, 799123
+[2025-03-04T16:07:01] [INFO] timing: https://rpki.pudu.be/rrdp/12e56a6f-de3e-492a-a9d3-2c448e4eccc7/1542/d8045d2150f33e89/snapshot.xml, 256290
+[2025-03-04T16:07:01] [INFO] content size: 30983, snapshot, 12e56a6f-de3e-492a-a9d3-2c448e4eccc7, 1542
+[2025-03-04T16:07:01] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/bcbbf0bf-a2e0-42a4-8293-711496eb66d2/2/F8DFF19A672A7674864D5F6367842D23E68D772F.mft: certificate has expired.
+[2025-03-04T16:07:01] [WARN] rsync://rpki-rps.arin.net/repository/8a848adf850d063e0185755c91be3f9d/2/F8DFF19A672A7674864D5F6367842D23E68D772F.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/bcbbf0bf-a2e0-42a4-8293-711496eb66d2/2/F8DFF19A672A7674864D5F6367842D23E68D772F.mft found.
+[2025-03-04T16:07:01] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/1bd306b4-e5c3-48f9-b2ee-36a9bdded8c4/5/6EC74C12BEB63E6D47484ACE255EC241A80F5486.mft: certificate has expired.
+[2025-03-04T16:07:01] [WARN] rsync://rpki-rps.arin.net/repository/8a848adf850d063e0185755c91be3f9d/2/6EC74C12BEB63E6D47484ACE255EC241A80F5486.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/1bd306b4-e5c3-48f9-b2ee-36a9bdded8c4/5/6EC74C12BEB63E6D47484ACE255EC241A80F5486.mft found.
+[2025-03-04T16:07:01] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/60be8f7b-d44c-4ca2-beb3-2dd41baee837/1/BE8A7AC02556C14368364036D5427F53187B6D9D.mft: certificate has expired.
+[2025-03-04T16:07:01] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/1bf8e977-7278-46cf-abd1-99cd1fd2be4e/4/BE8A7AC02556C14368364036D5427F53187B6D9D.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/60be8f7b-d44c-4ca2-beb3-2dd41baee837/1/BE8A7AC02556C14368364036D5427F53187B6D9D.mft found.
+[2025-03-04T16:07:01] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/aa004ba1-419b-4db5-bbd3-5cca633cae3f/0/ED7E642F8C5FB6C6E897FE906D788ADA542E8EED.cer: certificate has expired.
+[2025-03-04T16:07:01] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/aa004ba1-419b-4db5-bbd3-5cca633cae3f/0/CEE50F8654426B5A60EE8C52A9AE958F8D77B848.cer: certificate has expired.
+[2025-03-04T16:07:01] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/aa004ba1-419b-4db5-bbd3-5cca633cae3f/0/B3DB14531713D5390DFDAD1D3BDCA5BB079F53DA.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/7f5d2a1b-cacc-4e22-8af2-9f20a9329bcb/2/B3DB14531713D5390DFDAD1D3BDCA5BB079F53DA.mft found.
+[2025-03-04T16:07:01] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/f536a1e4-3bf0-4352-9061-66694d2bcbd3/0/F1ABD9429F3A733668CAC698C113A9E343C99B3E.mft: certificate has expired.
+[2025-03-04T16:07:01] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/aa004ba1-419b-4db5-bbd3-5cca633cae3f/0/F1ABD9429F3A733668CAC698C113A9E343C99B3E.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/f536a1e4-3bf0-4352-9061-66694d2bcbd3/0/F1ABD9429F3A733668CAC698C113A9E343C99B3E.mft found.
+[2025-03-04T16:07:01] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/bcbbf0bf-a2e0-42a4-8293-711496eb66d2/1/C3085C3C31F2D45EDE2A7FFBB1965BBF154E69B3.mft: certificate has expired.
+[2025-03-04T16:07:01] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/aa004ba1-419b-4db5-bbd3-5cca633cae3f/0/C3085C3C31F2D45EDE2A7FFBB1965BBF154E69B3.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/bcbbf0bf-a2e0-42a4-8293-711496eb66d2/1/C3085C3C31F2D45EDE2A7FFBB1965BBF154E69B3.mft found.
+[2025-03-04T16:07:01] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/1d20be4c-8db3-45e1-8169-0f2e4084132c/3/9AADF71FF51D952A77F564D5BA373A7D55BC9C0A.mft: certificate has expired.
+[2025-03-04T16:07:01] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/aa004ba1-419b-4db5-bbd3-5cca633cae3f/0/9AADF71FF51D952A77F564D5BA373A7D55BC9C0A.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/1d20be4c-8db3-45e1-8169-0f2e4084132c/3/9AADF71FF51D952A77F564D5BA373A7D55BC9C0A.mft found.
+[2025-03-04T16:07:01] [INFO] timing: https://rrdp.krill.nlnetlabs.nl/notification.xml, 50223
+[2025-03-04T16:07:01] [INFO] timing: https://rrdp.krill.nlnetlabs.nl/9c663ca8-c73a-4166-9258-8fe830eb278f/378/9e9ebfc0a6cc5145/snapshot.xml, 19932
+[2025-03-04T16:07:01] [INFO] content size: 26437, snapshot, 9c663ca8-c73a-4166-9258-8fe830eb278f, 378
+[2025-03-04T16:07:01] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/c99265ef-22a9-4100-a23d-51a9d9feeb7d/3/7B08E26EA9F3D825ECCD64E5FDC355C852A7AF54.mft: certificate has expired.
+[2025-03-04T16:07:01] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/ewjibqnz2CXszWTl_cNVyFKnr1Q.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/c99265ef-22a9-4100-a23d-51a9d9feeb7d/3/7B08E26EA9F3D825ECCD64E5FDC355C852A7AF54.mft found.
+[2025-03-04T16:07:23] [WARN] RRDP https://krill.ca-bc-01.ssmidge.xyz/rrdp/notification.xml: error sending request for url (https://krill.ca-bc-01.ssmidge.xyz/rrdp/notification.xml)
+[2025-03-04T16:07:23] [INFO] RRDP https://krill.ca-bc-01.ssmidge.xyz/rrdp/notification.xml: Update failed and there is no current copy.
+[2025-03-04T16:07:23] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/Uzah3JxThY9dQ3VRBRuyFL8cWrs.cer: no valid manifest rsync://krill.ca-bc-01.ssmidge.xyz/repo/SsmidgeLLC/0/5336A1DC9C53858F5D437551051BB214BF1C5ABB.mft found.
+[2025-03-04T16:07:23] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/b64c075f-eb10-4426-bb40-3a833fe0f9fb/1/7DDB99F73E7B582C352890E3AD5785D3679F8891.mft: certificate has expired.
+[2025-03-04T16:07:23] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/fduZ9z57WCw1KJDjrVeF02efiJE.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/b64c075f-eb10-4426-bb40-3a833fe0f9fb/1/7DDB99F73E7B582C352890E3AD5785D3679F8891.mft found.
+[2025-03-04T16:07:23] [INFO] timing: https://krill.accuristechnologies.ca/rrdp/notification.xml, 338077
+[2025-03-04T16:07:24] [INFO] timing: https://krill.accuristechnologies.ca/rrdp/7027f733-88b9-4b7e-a562-22f19286b58e/3254/7eaa82b2fa24d936/snapshot.xml, 98722
+[2025-03-04T16:07:24] [INFO] content size: 116964, snapshot, 7027f733-88b9-4b7e-a562-22f19286b58e, 3254
+[2025-03-04T16:07:24] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/dba8f01c-9669-44a3-ac6e-db2edb099b84/notification.xml, 12318
+[2025-03-04T16:07:24] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/dba8f01c-9669-44a3-ac6e-db2edb099b84/27e3c914-3741-40c5-bec7-265e2eb80946/3682/snapshot.xml, 11377
+[2025-03-04T16:07:24] [INFO] content size: 1596225, snapshot, 27e3c914-3741-40c5-bec7-265e2eb80946, 3682
+[2025-03-04T16:07:24] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/kR4YAUXmj3MV2jqyIA0YZnH_51s.cer: no valid manifest rsync://rsync.rpki.tianhai.link/repo/TianhaiRpki/1/911E180145E68F7315DA3AB2200D186671FFE75B.mft found.
+[2025-03-04T16:07:31] [WARN] RRDP https://rpki.0i1.eu/rrdp/notification.xml: error sending request for url (https://rpki.0i1.eu/rrdp/notification.xml)
+[2025-03-04T16:07:31] [INFO] RRDP https://rpki.0i1.eu/rrdp/notification.xml: Update failed and there is no current copy.
+[2025-03-04T16:07:31] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/fFzcP9UWU7USC06-3S-jgiQKWGg.cer: no valid manifest rsync://rpki.0i1.eu/repo/h45/0/7C5CDC3FD51653B5120B4EBEDD2FA382240A5868.mft found.
+[2025-03-04T16:07:31] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/kzFfu91HfgJISbtvZtj7lDlfY1A.cer: no valid manifest rsync://oto.wakuwaku.ne.jp/pki/202400/2/93315FBBDD477E024849BB6F66D8FB94395F6350.mft found.
+[2025-03-04T16:07:31] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/47cfdd4f-7698-4317-be26-f1102186ef1b/0/97C175005F7AB9B69DCDB4F3A608FC78FE5AA7C7.mft: certificate has expired.
+[2025-03-04T16:07:31] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/l8F1AF96ubadzbTzpgj8eP5ap8c.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/47cfdd4f-7698-4317-be26-f1102186ef1b/0/97C175005F7AB9B69DCDB4F3A608FC78FE5AA7C7.mft found.
+[2025-03-04T16:07:31] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/c5592a54-4035-4970-86dc-3d1803b7b60f/0/945031CB22A35CDB6CE579CB70270EA7B3A89A27.mft: certificate has expired.
+[2025-03-04T16:07:31] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/lFAxyyKjXNts5XnLcCcOp7Oomic.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/c5592a54-4035-4970-86dc-3d1803b7b60f/0/945031CB22A35CDB6CE579CB70270EA7B3A89A27.mft found.
+[2025-03-04T16:07:31] [WARN] rsync://rpki-repo.as207960.net/repo/q-test-ca/1/83027A47466EFA0ED200A7CA6EE9CF229F431C1B.mft: certificate has expired.
+[2025-03-04T16:07:31] [WARN] rsync://rpki-repo.as207960.net/repo/rpki_ca_d0f2db99fe1d4b36b9301c821220fe3a/1/83027A47466EFA0ED200A7CA6EE9CF229F431C1B.cer: no valid manifest rsync://rpki-repo.as207960.net/repo/q-test-ca/1/83027A47466EFA0ED200A7CA6EE9CF229F431C1B.mft found.
+[2025-03-04T16:07:31] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/a4c6bdc5-eb4e-4b6e-95f6-62790e57f3be/0/9DA23CC2CF88AE4585CF8AAF9A714A9AD2E6F198.mft: certificate has expired.
+[2025-03-04T16:07:31] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/naI8ws-IrkWFz4qvmnFKmtLm8Zg.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/a4c6bdc5-eb4e-4b6e-95f6-62790e57f3be/0/9DA23CC2CF88AE4585CF8AAF9A714A9AD2E6F198.mft found.
+[2025-03-04T16:07:31] [WARN] https://rpki.komorebi.network:3030/rrdp/notification.xml: Dubious host name. Not using the repository.
+[2025-03-04T16:07:31] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/nlAUVuEieYvbj3OVRb9hSMfNEWU.cer: no valid manifest rsync://rpki.komorebi.network/repo/komorebi/0/9E501456E122798BDB8F739545BF6148C7CD1165.mft found.
+[2025-03-04T16:07:31] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/p2-GjYBumASUxtBaI5XRDKftwak.cer: no valid manifest rsync://oto.wakuwaku.ne.jp/pki/202400/3/A76F868D806E980494C6D05A2395D10CA7EDC1A9.mft found.
+[2025-03-04T16:07:31] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/60be8f7b-d44c-4ca2-beb3-2dd41baee837/2/698CBB9E641A60FE66E1B58C92ACD281637ED767.mft: certificate has expired.
+[2025-03-04T16:07:31] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/1bf8e977-7278-46cf-abd1-99cd1fd2be4e/1/698CBB9E641A60FE66E1B58C92ACD281637ED767.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/60be8f7b-d44c-4ca2-beb3-2dd41baee837/2/698CBB9E641A60FE66E1B58C92ACD281637ED767.mft found.
+[2025-03-04T16:07:31] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/d2288b0e-a1d0-4c1a-8ced-a057a6076a7f/0/AB4C1697B18C3C715553206C4C39BBE9E52F658B.mft: certificate has expired.
+[2025-03-04T16:07:31] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/q0wWl7GMPHFVUyBsTDm76eUvZYs.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/d2288b0e-a1d0-4c1a-8ced-a057a6076a7f/0/AB4C1697B18C3C715553206C4C39BBE9E52F658B.mft found.
+[2025-03-04T16:07:31] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/89270f6c-a3fe-4299-b079-309ed97f3824/0/0874801164DC95F0AB9CCD4BD304A3EF78E9F39B.cer: certificate has been revoked.
+[2025-03-04T16:07:31] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/b59c106c-53b4-4e92-9fba-d60827b5bdb8/0/1F4C828276A9966865AB2B59533D1CB1BEC890BB.mft: certificate has expired.
+[2025-03-04T16:07:31] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/89270f6c-a3fe-4299-b079-309ed97f3824/0/1F4C828276A9966865AB2B59533D1CB1BEC890BB.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/b59c106c-53b4-4e92-9fba-d60827b5bdb8/0/1F4C828276A9966865AB2B59533D1CB1BEC890BB.mft found.
+[2025-03-04T16:07:31] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/1bd306b4-e5c3-48f9-b2ee-36a9bdded8c4/6/545C6A5736C41820C43C221A4B622EF9C3675652.mft: certificate has expired.
+[2025-03-04T16:07:31] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/89270f6c-a3fe-4299-b079-309ed97f3824/0/545C6A5736C41820C43C221A4B622EF9C3675652.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/1bd306b4-e5c3-48f9-b2ee-36a9bdded8c4/6/545C6A5736C41820C43C221A4B622EF9C3675652.mft found.
+[2025-03-04T16:07:31] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/c58479df-f5b7-4453-92bf-de1f61b3d4b0/1/AB1340E329CCD96287934FA706670D31B73C04E8.mft: certificate has expired.
+[2025-03-04T16:07:31] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/89270f6c-a3fe-4299-b079-309ed97f3824/0/AB1340E329CCD96287934FA706670D31B73C04E8.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/c58479df-f5b7-4453-92bf-de1f61b3d4b0/1/AB1340E329CCD96287934FA706670D31B73C04E8.mft found.
+[2025-03-04T16:07:31] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/98826bce-854a-48c6-86af-93cf28393576/0/ADAA2DF4F9F7F1B10330C3AB0CE4598D59DFFDA0.mft: certificate has expired.
+[2025-03-04T16:07:31] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/raot9Pn38bEDMMOrDORZjVnf_aA.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/98826bce-854a-48c6-86af-93cf28393576/0/ADAA2DF4F9F7F1B10330C3AB0CE4598D59DFFDA0.mft found.
+[2025-03-04T16:07:31] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/c974e2af-eaab-4d78-8d95-283144dda962/0/B3EAFBB87CFFEF940186759F08A7815F1C67A729.mft: certificate has expired.
+[2025-03-04T16:07:31] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/s-r7uHz_75QBhnWfCKeBXxxnpyk.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/c974e2af-eaab-4d78-8d95-283144dda962/0/B3EAFBB87CFFEF940186759F08A7815F1C67A729.mft found.
+[2025-03-04T16:07:31] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/8188cf9f-0de9-451f-b935-b3ff1d87a666/1/B340A32376D21B74320995356EBA85B40653E672.mft: certificate has expired.
+[2025-03-04T16:07:31] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/s0CjI3bSG3QyCZU1brqFtAZT5nI.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/8188cf9f-0de9-451f-b935-b3ff1d87a666/1/B340A32376D21B74320995356EBA85B40653E672.mft found.
+[2025-03-04T16:07:31] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/80a6dc53-b20d-453a-b7e5-3e06ef42bd26/0/B1D3049AB90B73314F2ADFCAD639336D9320B35E.mft: certificate has expired.
+[2025-03-04T16:07:31] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/sdMEmrkLczFPKt_K1jkzbZMgs14.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/80a6dc53-b20d-453a-b7e5-3e06ef42bd26/0/B1D3049AB90B73314F2ADFCAD639336D9320B35E.mft found.
+[2025-03-04T16:07:31] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/e292649c-2f1e-4e3a-9731-5b4a6e276845/0/B2E4D3DDAFC4F7BFBA5DB607A033F362108CA850.mft: certificate has expired.
+[2025-03-04T16:07:31] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/suTT3a_E97-6XbYHoDPzYhCMqFA.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/e292649c-2f1e-4e3a-9731-5b4a6e276845/0/B2E4D3DDAFC4F7BFBA5DB607A033F362108CA850.mft found.
+[2025-03-04T16:07:31] [WARN] RRDP https://pub.krill.ausra.cloud/rrdp/notification.xml: error sending request for url (https://pub.krill.ausra.cloud/rrdp/notification.xml)
+[2025-03-04T16:07:31] [INFO] RRDP https://pub.krill.ausra.cloud/rrdp/notification.xml: Update failed and there is no current copy.
+[2025-03-04T16:07:31] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/sy4-N1Phw0647Ando2PwbGe324o.cer: no valid manifest rsync://pub.krill.ausra.cloud/repo/Ausra-Systems-Internal-CA/0/B32E3E3753E1C34EB8EC09DDA363F06C67B7DB8A.mft found.
+[2025-03-04T16:07:32] [INFO] timing: https://rpki-rrdp.warpnet.xyz/notification.xml, 169120
+[2025-03-04T16:07:32] [INFO] timing: https://rpki-rrdp.warpnet.xyz/573bb206-2bff-49a4-893c-cfdace404e84/53/3626c2e9d2e3f872/snapshot.xml, 14833
+[2025-03-04T16:07:32] [INFO] content size: 9838, snapshot, 573bb206-2bff-49a4-893c-cfdace404e84, 53
+[2025-03-04T16:07:32] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/3c8e4e11-3aca-4305-acd4-f05e6c909115/0/B8288EA9E3D67DC3D38FA775181C4B2C87729BDF.mft: certificate has expired.
+[2025-03-04T16:07:32] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/uCiOqePWfcPTj6d1GBxLLIdym98.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/3c8e4e11-3aca-4305-acd4-f05e6c909115/0/B8288EA9E3D67DC3D38FA775181C4B2C87729BDF.mft found.
+[2025-03-04T16:07:32] [INFO] timing: https://rpki.leitecastro.com/notification.xml, 753632
+[2025-03-04T16:07:33] [INFO] timing: https://rpki.leitecastro.com/da648a1f-d958-4c06-b097-b78f3fc0fa22/121/479b7d559bebd3d1/snapshot.xml, 482081
+[2025-03-04T16:07:33] [INFO] content size: 37248, snapshot, da648a1f-d958-4c06-b097-b78f3fc0fa22, 121
+[2025-03-04T16:07:33] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/bcbbf0bf-a2e0-42a4-8293-711496eb66d2/0/BEEB4B595E9E084649D0ABE5B77B8DFF736D03F3.mft: certificate has expired.
+[2025-03-04T16:07:33] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/vutLWV6eCEZJ0Kvlt3uN_3NtA_M.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/bcbbf0bf-a2e0-42a4-8293-711496eb66d2/0/BEEB4B595E9E084649D0ABE5B77B8DFF736D03F3.mft found.
+[2025-03-04T16:07:33] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/vzVfZzmWkUiEOIHxupRiM47E-GU.cer: no valid manifest rsync://krill.uta.ng/repo/pongery/1/BF355F6739969148843881F1BA9462338EC4F865.mft found.
+[2025-03-04T16:07:33] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/w9a4Z_-YTcfF6szS2j-Szzxnfas.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/c58479df-f5b7-4453-92bf-de1f61b3d4b0/0/C3D6B867FF984DC7C5EACCD2DA3F92CF3C677DAB.mft found.
+[2025-03-04T16:07:33] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/4bfa7a9f-28d3-45b0-a839-a57519ecaeae/0/C3F4E167A6B1633379B9981D8A565B7AFB81DC90.mft: certificate has expired.
+[2025-03-04T16:07:33] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/w_ThZ6axYzN5uZgdilZbevuB3JA.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/4bfa7a9f-28d3-45b0-a839-a57519ecaeae/0/C3F4E167A6B1633379B9981D8A565B7AFB81DC90.mft found.
+[2025-03-04T16:07:33] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/0157647c-91d6-4a04-8a91-d15385d1fab2/0/C746AC47360523A8D817C5EA638AE186912619C1.mft: certificate has expired.
+[2025-03-04T16:07:33] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/x0asRzYFI6jYF8XqY4rhhpEmGcE.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/0157647c-91d6-4a04-8a91-d15385d1fab2/0/C746AC47360523A8D817C5EA638AE186912619C1.mft found.
+[2025-03-04T16:07:33] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/d3cc54ec-b5e4-4034-9a1e-67acd205bbb3/8/CC2B47BFD397E66019550C83BF1B56353173A0CB.mft: certificate has expired.
+[2025-03-04T16:07:33] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/84d51810-1987-4701-8f1f-8425111964f4/0/CC2B47BFD397E66019550C83BF1B56353173A0CB.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/d3cc54ec-b5e4-4034-9a1e-67acd205bbb3/8/CC2B47BFD397E66019550C83BF1B56353173A0CB.mft found.
+[2025-03-04T16:07:33] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/84d51810-1987-4701-8f1f-8425111964f4/0/76423146648CF6AC626CCD0654C5B50EBEA94787.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/570d55e9-040b-4eb0-9055-4b1e63a88a66/2/76423146648CF6AC626CCD0654C5B50EBEA94787.mft found.
+[2025-03-04T16:07:33] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/c974e2af-eaab-4d78-8d95-283144dda962/1/FBDF5C81A0D6F79C3DFB8B4EDF2966F352606027.mft: certificate has expired.
+[2025-03-04T16:07:33] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/84d51810-1987-4701-8f1f-8425111964f4/0/FBDF5C81A0D6F79C3DFB8B4EDF2966F352606027.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/c974e2af-eaab-4d78-8d95-283144dda962/1/FBDF5C81A0D6F79C3DFB8B4EDF2966F352606027.mft found.
+[2025-03-04T16:07:33] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/xVV8l9e7_0fKIq1fufBYn6rxWb0.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/32bfd357-d83b-400a-8c46-4fbd1119f4a3/2/C5557C97D7BBFF47CA22AD5FB9F0589FAAF159BD.mft found.
+[2025-03-04T16:07:33] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/xZR-zIaDrQ282VqPMy8MqhNXR5A.cer: no valid manifest rsync://rpki.netiface.net/repo/Civilized/0/C5947ECC8683AD0DBCD95A8F332F0CAA13574790.mft found.
+[2025-03-04T16:07:33] [WARN] RRDP https://rpki01.hel-fi.rpki.win/rrdp/notification.xml: HTTP status server error (502 Bad Gateway) for url (https://rpki01.hel-fi.rpki.win/rrdp/notification.xml)
+[2025-03-04T16:07:33] [INFO] RRDP https://rpki01.hel-fi.rpki.win/rrdp/notification.xml: Update failed and there is no current copy.
+[2025-03-04T16:07:33] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/yJsxCB1b3QjRj7zY-r7oHE-wUUY.cer: no valid manifest rsync://rpki01.hel-fi.rpki.win:44595/repo/as60900/0/C89B31081D5BDD08D18FBCD8FABEE81C4FB05146.mft found.
+[2025-03-04T16:07:33] [WARN] rsync://chloe.sobornost.net/rpki/RIPE-nljobsnijders/5m80fwYws_3FiFD7JiQjAqZ1RYQ.asa: certificate has expired.
+[2025-03-04T16:07:33] [WARN] rsync://chloe.sobornost.net/rpki/RIPE-nljobsnijders/9X0AhXWTJDl8lJhfOwvnac-42CA.spl: unknown object type.
+[2025-03-04T16:07:33] [WARN] RRDP https://dev.tw/rpki/notification.xml: error sending request for url (https://dev.tw/rpki/notification.xml)
+[2025-03-04T16:07:33] [INFO] RRDP https://dev.tw/rpki/notification.xml: Update failed and there is no current copy.
+[2025-03-04T16:07:33] [WARN] rsync://rpki-rps.arin.net/repository/8a848adf850d063e0185755c91be3f9d/3/EE962658B1226680140B4EA86F7D68CF498158D9.cer: no valid manifest rsync://dev.tw/rpki/August/14/EE962658B1226680140B4EA86F7D68CF498158D9.mft found.
+[2025-03-04T16:07:33] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/16f1ffee-7461-4674-bb05-fddefa9a02c6/notification.xml, 11385
+[2025-03-04T16:07:33] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/16f1ffee-7461-4674-bb05-fddefa9a02c6/f62e1519-f2e4-4d57-80bc-56c3699ba88e/54629/snapshot.xml, 11426
+[2025-03-04T16:07:33] [INFO] content size: 63829, snapshot, f62e1519-f2e4-4d57-80bc-56c3699ba88e, 54629
+[2025-03-04T16:07:33] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/e72d8db0-4728-4fc1-bdd8-471129866362/notification.xml, 11607
+[2025-03-04T16:07:34] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/e72d8db0-4728-4fc1-bdd8-471129866362/dc9f329e-549c-4f77-a043-ae2e219c1b98/963/snapshot.xml, 306176
+[2025-03-04T16:07:34] [INFO] content size: 169168, snapshot, dc9f329e-549c-4f77-a043-ae2e219c1b98, 963
+[2025-03-04T16:07:34] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/54602fb0-a9d4-4f9f-b0ca-be2a139ea92b/notification.xml, 11757
+[2025-03-04T16:07:34] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/54602fb0-a9d4-4f9f-b0ca-be2a139ea92b/098c0ce1-b270-4006-a087-bd4f56f842f3/108601/snapshot.xml, 306974
+[2025-03-04T16:07:34] [INFO] content size: 677148, snapshot, 098c0ce1-b270-4006-a087-bd4f56f842f3, 108601
+[2025-03-04T16:07:34] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/b8a1dd25-c313-4f25-ac21-bf55514d9c7d/notification.xml, 11404
+[2025-03-04T16:07:34] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/b8a1dd25-c313-4f25-ac21-bf55514d9c7d/7f9c5bd1-c000-4f2b-9a98-bb3b625b490c/1379/snapshot.xml, 311183
+[2025-03-04T16:07:34] [INFO] content size: 187224, snapshot, 7f9c5bd1-c000-4f2b-9a98-bb3b625b490c, 1379
+[2025-03-04T16:07:34] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/20aa329b-fc52-4c61-bf53-09725c042942/notification.xml, 11752
+[2025-03-04T16:07:35] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/20aa329b-fc52-4c61-bf53-09725c042942/0eac24d1-fe4a-41b7-9d76-c9f22cdfbe81/21153/snapshot.xml, 312442
+[2025-03-04T16:07:36] [INFO] content size: 8386038, snapshot, 0eac24d1-fe4a-41b7-9d76-c9f22cdfbe81, 21153
+[2025-03-04T16:07:36] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/a841823c-a10d-477c-bfdf-4086f0b1594c/notification.xml, 12326
+[2025-03-04T16:07:36] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/a841823c-a10d-477c-bfdf-4086f0b1594c/c4c8c42a-ba17-45c5-b04a-58c85419df9c/891/snapshot.xml, 311825
+[2025-03-04T16:07:36] [INFO] content size: 26379, snapshot, c4c8c42a-ba17-45c5-b04a-58c85419df9c, 891
+[2025-03-04T16:07:36] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/602a26e5-4a9e-4e5e-89f0-ef891490d9c9/notification.xml, 22521
+[2025-03-04T16:07:37] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/602a26e5-4a9e-4e5e-89f0-ef891490d9c9/7be1c1f0-fb1a-4b5b-875a-fb3feb9a8d1b/879/snapshot.xml, 324107
+[2025-03-04T16:07:37] [INFO] content size: 49805, snapshot, 7be1c1f0-fb1a-4b5b-875a-fb3feb9a8d1b, 879
+[2025-03-04T16:07:37] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/42582c67-dd3f-4bc5-ba60-e97e552c6e35/notification.xml, 12950
+[2025-03-04T16:07:37] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/42582c67-dd3f-4bc5-ba60-e97e552c6e35/74a44187-d8e1-40af-861d-78d32361edb9/868/snapshot.xml, 303367
+[2025-03-04T16:07:37] [INFO] content size: 54428, snapshot, 74a44187-d8e1-40af-861d-78d32361edb9, 868
+[2025-03-04T16:07:37] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/f703696e-e47b-4c20-bd93-6f80904e42d2/notification.xml, 21906
+[2025-03-04T16:07:37] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/f703696e-e47b-4c20-bd93-6f80904e42d2/2f7c3e28-e453-499f-9113-51a844b87050/18798/snapshot.xml, 307173
+[2025-03-04T16:07:38] [INFO] content size: 6140407, snapshot, 2f7c3e28-e453-499f-9113-51a844b87050, 18798
+[2025-03-04T16:07:38] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/517f3ed7-58b5-4796-be37-14d62e48f056/notification.xml, 15431
+[2025-03-04T16:07:38] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/517f3ed7-58b5-4796-be37-14d62e48f056/15049d5c-515b-4018-8402-cc98e4b507da/1294/snapshot.xml, 311173
+[2025-03-04T16:07:38] [INFO] content size: 301778, snapshot, 15049d5c-515b-4018-8402-cc98e4b507da, 1294
+[2025-03-04T16:07:38] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/ff9fa84e-9783-4a0b-a58d-6dc8e2433d33/notification.xml, 12036
+[2025-03-04T16:07:39] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/ff9fa84e-9783-4a0b-a58d-6dc8e2433d33/4da0bc15-6736-49ab-a0ba-48042a621a58/729/snapshot.xml, 305252
+[2025-03-04T16:07:39] [INFO] content size: 2610, snapshot, 4da0bc15-6736-49ab-a0ba-48042a621a58, 729
+[2025-03-04T16:07:39] [WARN] RRDP https://rpki-pp.com/rrdp/notification.xml: HTTP status client error (403 Forbidden) for url (https://rpki-pp.com/rrdp/notification.xml)
+[2025-03-04T16:07:39] [INFO] RRDP https://rpki-pp.com/rrdp/notification.xml: Update failed and there is no current copy.
+[2025-03-04T16:07:39] [WARN] rsync://rpki.arin.net/repository/arin-rpki-ta/5e4a23ea-e80a-403e-b08c-2171da2157d3/69fd0156-bb1f-48b6-bf32-c9492286f195/7c9b1947-b813-43b3-9152-c4ccbff1cde7/86de965d710aeee198142f460f82d31bc5a8aae2b2f48e0c5d.cer: no valid manifest rsync://rpki-pp.com/repo/GOOFL/0/D4606AE6F18838E2257D55ABB500636F509236E3.mft found.
+[2025-03-04T16:07:39] [INFO] timing: https://repodepot.wildtky.com/rrdp/notification.xml, 332606
+[2025-03-04T16:07:40] [INFO] timing: https://repodepot.wildtky.com/rrdp/7013bfe9-827e-44ad-ba26-29a41a3f9dfa/57/29bb83212fff9843/snapshot.xml, 220010
+[2025-03-04T16:07:40] [INFO] content size: 14380, snapshot, 7013bfe9-827e-44ad-ba26-29a41a3f9dfa, 57
+[2025-03-04T16:07:40] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/b3f6b688-cff4-402f-97d5-02f6f1886b7e/notification.xml, 24310
+[2025-03-04T16:07:40] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/b3f6b688-cff4-402f-97d5-02f6f1886b7e/c90ce58f-7675-4d72-9c9a-d615359ae3ba/847/snapshot.xml, 318687
+[2025-03-04T16:07:40] [INFO] content size: 9021, snapshot, c90ce58f-7675-4d72-9c9a-d615359ae3ba, 847
+[2025-03-04T16:07:40] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/2f059a21-d41b-4846-b7ae-7ea38c32fd4c/notification.xml, 12333
+[2025-03-04T16:07:40] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/2f059a21-d41b-4846-b7ae-7ea38c32fd4c/30d919c0-4898-4685-8fab-5e1c067ab213/971/snapshot.xml, 301506
+[2025-03-04T16:07:40] [INFO] content size: 22087, snapshot, 30d919c0-4898-4685-8fab-5e1c067ab213, 971
+[2025-03-04T16:07:40] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/71e5236f-c6f1-4928-a1b9-8def09c06085/notification.xml, 12591
+[2025-03-04T16:07:41] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/71e5236f-c6f1-4928-a1b9-8def09c06085/c6122fc7-42c8-40a4-bca2-8cc1c883d8f8/847/snapshot.xml, 313400
+[2025-03-04T16:07:41] [INFO] content size: 4790, snapshot, c6122fc7-42c8-40a4-bca2-8cc1c883d8f8, 847
+[2025-03-04T16:07:41] [INFO] timing: https://cloudie.rpki.app/rrdp/notification.xml, 820665
+[2025-03-04T16:07:42] [INFO] timing: https://cloudie.rpki.app/rrdp/d92cf37b-c955-4272-bbe6-efda084ad2de/5791/036f98547dd26dcb/snapshot.xml, 517766
+[2025-03-04T16:07:43] [INFO] content size: 828813, snapshot, d92cf37b-c955-4272-bbe6-efda084ad2de, 5791
+[2025-03-04T16:07:43] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/3253d973-d5bf-4541-bcc1-276543a25c7d/5/A9362D4E85AC589FD5EAF1AFB38B36251868267D.mft: certificate has expired.
+[2025-03-04T16:07:43] [WARN] rsync://krill.accuristechnologies.ca/repo/Accuris-Technologies/0/A9362D4E85AC589FD5EAF1AFB38B36251868267D.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/3253d973-d5bf-4541-bcc1-276543a25c7d/5/A9362D4E85AC589FD5EAF1AFB38B36251868267D.mft found.
+[2025-03-04T16:07:43] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/66bd92f1-415b-4765-8a16-dbfc4593c1a8/7/EEF3EC40152A747D52835AE8973E7DC8C193A840.cer: no valid manifest rsync://krill.ca-bc-01.ssmidge.xyz/repo/SsmidgeLLC/2/EEF3EC40152A747D52835AE8973E7DC8C193A840.mft found.
+[2025-03-04T16:07:44] [INFO] timing: https://rpki.sailx.co/rrdp/notification.xml, 416610
+[2025-03-04T16:07:44] [INFO] timing: https://rpki.sailx.co/rrdp/49901d73-2e81-4fad-a7b0-60077ca499db/1791/b77aae965bede21a/snapshot.xml, 278323
+[2025-03-04T16:07:44] [INFO] content size: 43013, snapshot, 49901d73-2e81-4fad-a7b0-60077ca499db, 1791
+[2025-03-04T16:07:44] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/66bd92f1-415b-4765-8a16-dbfc4593c1a8/8/5344A7147C3BDF128B91CB0E4B659E3DA3046121.cer: no valid manifest rsync://krill.ca-bc-01.ssmidge.xyz/repo/SsmidgeLLC/3/5344A7147C3BDF128B91CB0E4B659E3DA3046121.mft found.
+[2025-03-04T16:07:44] [WARN] rsync://cloudie-repo.rpki.app/repo/CLOUDIE-RPKI/2/EF426F94C58940B7071B544A524D3C9EA3456B00.cer: certificate has expired.
+[2025-03-04T16:07:44] [INFO] timing: https://rpki.sunoaki.net/rrdp/notification.xml, 199059
+[2025-03-04T16:07:44] [INFO] timing: https://rpki.sunoaki.net/rrdp/8ff7fcf2-8880-44f0-b334-c0efb8c59c3b/319/d1099152f0bd79a1/snapshot.xml, 40098
+[2025-03-04T16:07:44] [INFO] content size: 58450, snapshot, 8ff7fcf2-8880-44f0-b334-c0efb8c59c3b, 319
+[2025-03-04T16:07:45] [INFO] timing: https://ca.nat.moe/rrdp/notification.xml, 411357
+[2025-03-04T16:07:45] [INFO] timing: https://ca.nat.moe/rrdp/22278cbf-c44e-4920-b166-ccfc7f82dd11/1236/1d5dabb39ba1b50b/snapshot.xml, 136674
+[2025-03-04T16:07:45] [INFO] content size: 202187, snapshot, 22278cbf-c44e-4920-b166-ccfc7f82dd11, 1236
+[2025-03-04T16:07:46] [INFO] timing: https://rpki.tools.westconnect.ca/rrdp/notification.xml, 414988
+[2025-03-04T16:07:46] [INFO] timing: https://rpki.tools.westconnect.ca/rrdp/18c85c29-3700-4ec9-8c0c-b3aab9a969c0/1164/2229eef49872252d/snapshot.xml, 138837
+[2025-03-04T16:07:46] [INFO] content size: 33416, snapshot, 18c85c29-3700-4ec9-8c0c-b3aab9a969c0, 1164
+[2025-03-04T16:07:46] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/e7518af5-a343-428d-bf78-f982b6e60505/notification.xml, 12739
+[2025-03-04T16:07:46] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/e7518af5-a343-428d-bf78-f982b6e60505/4bd13b08-31cf-4342-af8f-0bc15fcee76b/1436/snapshot.xml, 297388
+[2025-03-04T16:07:46] [INFO] content size: 65367, snapshot, 4bd13b08-31cf-4342-af8f-0bc15fcee76b, 1436
+[2025-03-04T16:07:46] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/dfd7f6d3-e6e9-4987-9ae7-d052c5353898/notification.xml, 12169
+[2025-03-04T16:07:47] [INFO] timing: https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/dfd7f6d3-e6e9-4987-9ae7-d052c5353898/fd0039bd-1d18-4bd9-bd0c-5e5fc3d1976a/835/snapshot.xml, 305792
+[2025-03-04T16:07:47] [INFO] content size: 17830, snapshot, fd0039bd-1d18-4bd9-bd0c-5e5fc3d1976a, 835
+[2025-03-04T16:07:47] [INFO] timing: https://rpki-rrdp.mnihyc.com/rrdp/notification.xml, 301735
+[2025-03-04T16:07:48] [INFO] timing: https://rpki-rrdp.mnihyc.com/rrdp/673ed395-23b3-4426-b8f3-3335a5937daa/3634/77aaab044793a3f0/snapshot.xml, 753065
+[2025-03-04T16:07:48] [INFO] content size: 8517, snapshot, 673ed395-23b3-4426-b8f3-3335a5937daa, 3634
+[2025-03-04T16:07:49] [INFO] timing: https://rpki.apernet.io/rrdp/notification.xml, 1147017
+[2025-03-04T16:07:49] [INFO] timing: https://rpki.apernet.io/rrdp/4ba8440d-138c-45f7-914e-c04a8cf66129/4759/snapshot.xml, 344780
+[2025-03-04T16:07:50] [INFO] content size: 94190, snapshot, 4ba8440d-138c-45f7-914e-c04a8cf66129, 4759
+[2025-03-04T16:07:51] [INFO] timing: https://rpki.luys.cloud/rrdp/notification.xml, 1396790
+[2025-03-04T16:07:52] [INFO] timing: https://rpki.luys.cloud/rrdp/b14bf9f4-2d4f-418f-8f47-819710b78724/3846/b5650c91433665f2/snapshot.xml, 1104303
+[2025-03-04T16:07:52] [INFO] content size: 12665, snapshot, b14bf9f4-2d4f-418f-8f47-819710b78724, 3846
+[2025-03-04T16:07:52] [WARN] rsync://rpki.luys.cloud/repo/LY-RPKI/1/47717A8A2E301D872DAC129F2CBAC587F01A0813.mft: certificate has expired.
+[2025-03-04T16:07:52] [WARN] rsync://sakuya.nat.moe/repo/NATOCA/1/47717A8A2E301D872DAC129F2CBAC587F01A0813.cer: no valid manifest rsync://rpki.luys.cloud/repo/LY-RPKI/1/47717A8A2E301D872DAC129F2CBAC587F01A0813.mft found.
+[2025-03-04T16:07:52] [WARN] RRDP https://krill.immarket.space/rrdp/notification.xml: HTTP status client error (404 Not Found) for url (https://krill.immarket.space/rrdp/notification.xml)
+[2025-03-04T16:07:52] [INFO] RRDP https://krill.immarket.space/rrdp/notification.xml: Update failed and there is no current copy.
+[2025-03-04T16:07:52] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/0c70401c-7f41-4a6b-9434-cc80dca093e6/2/3B7184989F76A03708039261134F384B50D011BB.cer: no valid manifest rsync://krill.immarket.space/repo/imh/0/3B7184989F76A03708039261134F384B50D011BB.mft found.
+[2025-03-04T16:07:53] [INFO] timing: https://magellan.ipxo.com/rrdp/notification.xml, 71832
+[2025-03-04T16:07:53] [INFO] timing: https://magellan.ipxo.com/rrdp/7cc3800e-d438-4274-bf75-cadbb018a1cf/5860/06fbb937436859fd/snapshot.xml, 29210
+[2025-03-04T16:07:53] [INFO] content size: 341103, snapshot, 7cc3800e-d438-4274-bf75-cadbb018a1cf, 5860
+[2025-03-04T16:07:54] [WARN] RRDP https://rpki.zappiehost.com/rrdp/notification.xml: error sending request for url (https://rpki.zappiehost.com/rrdp/notification.xml)
+[2025-03-04T16:07:54] [INFO] RRDP https://rpki.zappiehost.com/rrdp/notification.xml: Update failed and there is no current copy.
+[2025-03-04T16:07:54] [WARN] rsync://rpki.ripe.net/repository/DEFAULT/ke_nszpmx_27cR922H6TU-UwQls.cer: no valid manifest rsync://rpki.zappiehost.com/repo/TERITUM_UID_18858/1/91EFE7B33A66C7FDBB711F76D87E9353E530425B.mft found.
+[2025-03-04T16:07:54] [WARN] rsync://rpki-rps.arin.net/repository/8a848adf850d063e0185755c91be3f9d/2/F4649896A70A20CD8ABB9644DE0C0399CEC6FBCE.cer: no valid manifest rsync://dev.tw/rpki/August/13/F4649896A70A20CD8ABB9644DE0C0399CEC6FBCE.mft found.
+[2025-03-04T16:07:54] [WARN] rsync://cloudie-repo.rpki.app/repo/CLOUDIE-RPKI/0/A845D847B27C18D2A8C43F47EDAAEEAB5CCC0BE1.cer: certificate has expired.
+[2025-03-04T16:07:54] [WARN] rsync://cloudie-repo.rpki.app/repo/CLOUDIE-RPKI/0/8174F52F3DDAD2C357E416F8CE94960D6EFA431A.cer: certificate has expired.
+[2025-03-04T16:07:54] [WARN] rsync://cloudie-repo.rpki.app/repo/CLOUDIE-RPKI/0/ACEA194714A54AD4EE3CAE964BDE6B31430614A1.cer: certificate has expired.
+[2025-03-04T16:07:54] [WARN] rsync://rpki-rps.arin.net/repository/8a848ade8baa579c018cdcf2c8354b52/2/59B3F040539A01CDC2A036F403A23CC53A672EB0.cer: certificate has expired.
+[2025-03-04T16:07:54] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/22a80682-c54c-4d5a-9456-b23925309732/0/42CC538CA37931CF39A85418E983E932F716DF8A.mft: certificate has expired.
+[2025-03-04T16:07:54] [WARN] rsync://cloudie-repo.rpki.app/repo/CLOUDIE-RPKI/0/42CC538CA37931CF39A85418E983E932F716DF8A.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/22a80682-c54c-4d5a-9456-b23925309732/0/42CC538CA37931CF39A85418E983E932F716DF8A.mft found.
+[2025-03-04T16:07:54] [WARN] rsync://rpki.cc/repo/MythicalKitten/1/A5B9564158D3F545D38A5134082DABBC4CE4BBC0.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/59183bf3-1acf-4a20-8fa4-b467c2c2260b/2/A5B9564158D3F545D38A5134082DABBC4CE4BBC0.mft found.
+[2025-03-04T16:07:54] [WARN] rsync://rpki.cc/repo/MythicalKitten/1/4173C015E8E1FED254D4938B7E69CB256CCF6936.cer: no valid manifest rsync://krill.ca-bc-01.ssmidge.xyz/repo/AS199177/0/4173C015E8E1FED254D4938B7E69CB256CCF6936.mft found.
+[2025-03-04T16:07:54] [WARN] rsync://cloudie-repo.rpki.app/repo/CLOUDIE-RPKI/0/D5131EA7CE59E57775DE7C271A69CCF2356A207F.cer: no valid manifest rsync://rpki.komorebi.network/repo/komorebi/4/D5131EA7CE59E57775DE7C271A69CCF2356A207F.mft found.
+[2025-03-04T16:07:54] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/3253d973-d5bf-4541-bcc1-276543a25c7d/1/F737D81BFBEFFDEEC9EC32B7B864112DE05E7B76.mft: certificate has expired.
+[2025-03-04T16:07:54] [WARN] rsync://cloudie-repo.rpki.app/repo/CLOUDIE-RPKI/0/F737D81BFBEFFDEEC9EC32B7B864112DE05E7B76.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/3253d973-d5bf-4541-bcc1-276543a25c7d/1/F737D81BFBEFFDEEC9EC32B7B864112DE05E7B76.mft found.
+[2025-03-04T16:07:54] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/1bd306b4-e5c3-48f9-b2ee-36a9bdded8c4/4/B126634521E5E49C535FCBEC43BA2D922C30E136.mft: certificate has expired.
+[2025-03-04T16:07:54] [WARN] rsync://cloudie-repo.rpki.app/repo/CLOUDIE-RPKI/0/B126634521E5E49C535FCBEC43BA2D922C30E136.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/1bd306b4-e5c3-48f9-b2ee-36a9bdded8c4/4/B126634521E5E49C535FCBEC43BA2D922C30E136.mft found.
+[2025-03-04T16:07:54] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/c99265ef-22a9-4100-a23d-51a9d9feeb7d/1/CADC66A6E55BEBAFDDFA8BD72B3127C8AEB50EC2.mft: certificate has expired.
+[2025-03-04T16:07:54] [WARN] rsync://cloudie-repo.rpki.app/repo/CLOUDIE-RPKI/0/CADC66A6E55BEBAFDDFA8BD72B3127C8AEB50EC2.cer: no valid manifest rsync://rsync.paas.rpki.ripe.net/repository/c99265ef-22a9-4100-a23d-51a9d9feeb7d/1/CADC66A6E55BEBAFDDFA8BD72B3127C8AEB50EC2.mft found.
+[2025-03-04T16:07:54] [WARN] rsync://rpki-rps.arin.net/repository/8a848adf850d063e0185755c91be3f9d/2/0F24571B693A0709B38AA00142BAC0AD8D8AA300.cer: no valid manifest rsync://rpki.komorebi.network/repo/komorebi/1/0F24571B693A0709B38AA00142BAC0AD8D8AA300.mft found.
+[2025-03-04T16:07:54] [WARN] rsync://rpki-rps.arin.net/repository/8a848adf850d063e0185755c91be3f9d/2/F92C0CA86003BE2D96912F0CF0E90FAF0D6CF954.cer: no valid manifest rsync://rpki.zappiehost.com/repo/TERITUM_UID_18858/0/F92C0CA86003BE2D96912F0CF0E90FAF0D6CF954.mft found.
+[2025-03-04T16:07:54] [WARN] rsync://rpki.cc/repo/MythicalKitten/12/7BBD0E669176F6F2E8BB8FC3104A8D23435175AE.cer: no valid manifest rsync://krill.ca-bc-01.ssmidge.xyz/repo/SsmidgeLLC/1/7BBD0E669176F6F2E8BB8FC3104A8D23435175AE.mft found.
+[2025-03-04T16:07:54] [INFO] timing: https://rov-measurements.nlnetlabs.net/rrdp/notification.xml, 5983
+[2025-03-04T16:07:54] [INFO] timing: https://rov-measurements.nlnetlabs.net/rrdp/5370952c-9fc4-4186-bb79-18eb139e9859/845/543e93eab9bd8816/snapshot.xml, 1520
+[2025-03-04T16:07:54] [INFO] content size: 2386, snapshot, 5370952c-9fc4-4186-bb79-18eb139e9859, 845
+[2025-03-04T16:07:54] [INFO] timing: https://rpki.qs.nu/rrdp/notification.xml, 132977
+[2025-03-04T16:07:54] [INFO] timing: https://rpki.qs.nu/rrdp/3d9016b8-c804-481f-96fa-3675352e538e/4832/snapshot.xml, 28234
+[2025-03-04T16:07:54] [INFO] content size: 2366, snapshot, 3d9016b8-c804-481f-96fa-3675352e538e, 4832
+[2025-03-04T16:07:55] [WARN] RRDP https://rpki.xa.wiki/rrdp/notification.xml: error sending request for url (https://rpki.xa.wiki/rrdp/notification.xml)
+[2025-03-04T16:07:55] [INFO] RRDP https://rpki.xa.wiki/rrdp/notification.xml: Update failed and there is no current copy.
+[2025-03-04T16:07:55] [WARN] rsync://rsync.paas.rpki.ripe.net/repository/89270f6c-a3fe-4299-b079-309ed97f3824/0/1717ACD294A2C988167DF42BBB5A5E20A0C2831B.cer: no valid manifest rsync://rpki.xa.wiki/repo/AXNETS-CA/0/1717ACD294A2C988167DF42BBB5A5E20A0C2831B.mft found.
+[2025-03-04T16:07:55] [INFO] timing: https://subrepo.wildtky.com/rrdp/notification.xml, 326309
+[2025-03-04T16:07:55] [INFO] timing: https://subrepo.wildtky.com/rrdp/1506e410-30f7-4431-8b6c-4c6778c588e4/3/8c4342f64571b13d/snapshot.xml, 116110
+[2025-03-04T16:07:55] [INFO] content size: 4270, snapshot, 1506e410-30f7-4431-8b6c-4c6778c588e4, 3
+[2025-03-04T16:07:55] [WARN] rsync://subrepo.wildtky.com/repo/SubCAJan2025/0/A0D77953B7619F183E3407CF1E95764F0A641BDD.mft: certificate has expired.
+[2025-03-04T16:07:55] [WARN] rsync://repodepot.wildtky.com/repo/WTAFarms-Jan2025/0/A0D77953B7619F183E3407CF1E95764F0A641BDD.cer: no valid manifest rsync://subrepo.wildtky.com/repo/SubCAJan2025/0/A0D77953B7619F183E3407CF1E95764F0A641BDD.mft found.
+[2025-03-04T16:07:55] [WARN] RRDP https://rpki.miralium.net/rrdp/notification.xml: error sending request for url (https://rpki.miralium.net/rrdp/notification.xml)
+[2025-03-04T16:07:55] [INFO] RRDP https://rpki.miralium.net/rrdp/notification.xml: Update failed and there is no current copy.
+[2025-03-04T16:07:55] [WARN] rsync://krill.accuristechnologies.ca/repo/Accuris-Technologies/0/8A15107195E63966ABA1997AD31382979C75F736.cer: no valid manifest rsync://rpki.miralium.net/repo/Miralium-Research-RPKI-CA-A1/0/8A15107195E63966ABA1997AD31382979C75F736.mft found.
+[2025-03-04T16:08:15] [WARN] RRDP https://krill.stonham.uk/rrdp/notification.xml: HTTP status server error (522 <unknown status code>) for url (https://krill.stonham.uk/rrdp/notification.xml)
+[2025-03-04T16:08:15] [INFO] RRDP https://krill.stonham.uk/rrdp/notification.xml: Update failed and there is no current copy.
+[2025-03-04T16:08:15] [WARN] rsync://cloudie-repo.rpki.app/repo/CLOUDIE-RPKI/0/635C29FF238CC286AC1625A68EFCC04E2E460171.cer: no valid manifest rsync://krill.stonham.info/repo/Stonham/1/635C29FF238CC286AC1625A68EFCC04E2E460171.mft found.
+[2025-03-04T16:08:15] [INFO] timing: https://rpki-publication.haruue.net/rrdp/notification.xml, 305941
+[2025-03-04T16:08:15] [INFO] timing: https://rpki-publication.haruue.net/rrdp/b90ae412-4fba-4af2-a126-3c7cb3d00463/448/cafc331a59741c4f/snapshot.xml, 256432
+[2025-03-04T16:08:15] [INFO] content size: 6323, snapshot, b90ae412-4fba-4af2-a126-3c7cb3d00463, 448
+[2025-03-04T16:08:15] [WARN] rsync://rpki-repository.haruue.net/repo/YC3254-RPKI/2/3F0AC25D352C83DA8307594B98ED061BE8489682.mft: certificate has expired.
+[2025-03-04T16:08:15] [WARN] rsync://cloudie-repo.rpki.app/repo/CLOUDIE-RPKI/0/3F0AC25D352C83DA8307594B98ED061BE8489682.cer: no valid manifest rsync://rpki-repository.haruue.net/repo/YC3254-RPKI/2/3F0AC25D352C83DA8307594B98ED061BE8489682.mft found.
+[2025-03-04T16:08:23] [WARN] RRDP https://krill.rg.net/rrdp/notification.xml: error sending request for url (https://krill.rg.net/rrdp/notification.xml)
+[2025-03-04T16:08:23] [INFO] RRDP https://krill.rg.net/rrdp/notification.xml: Update failed and there is no current copy.
+[2025-03-04T16:08:23] [WARN] rsync://ca.rg.net/rpki/RGnet-OU/ZW5EIqvxKWSSAOsBmoFfKxIjbpI.cer: no valid manifest rsync://krill.rg.net/repo/rpki-beacons-ca/0/656E4422ABF129649200EB019A815F2B12236E92.mft found.
