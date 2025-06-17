@@ -1,0 +1,10 @@
+{
+  "repo_info": {
+    "sia_base": "rsync://localhost/repo/",
+    "rrdp_notification_uri": "https://localhost:3000/rrdp/notification.xml"
+  },
+  "server_info": {
+    "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoP6O4pqIFsCctfeO9/64VclAnjszDIwCYewAhhdvhrp2CAhMQIcJI7j26hN/iMiNnWd798rCS7tYdeCSRGdSb1TP/kDWT7rm0AZpqa2rSxFv/httPzxQiJeJxs9zj5p735Iih+L+4pTEa/8pSRAjWbZF03ezXh3q6I3rcZuwzBoYKnJivWJjI2E1rt398WwmaMy7D4uW6hNJ2j9lO/lFPTMI7OhzGvnXSH6Nx5uKnTiFL71X3UNETV542s0+U6LPZlh1KmnEfimqCa6ED3RDezkK8dki2xG3dpbjRtQKvcoi/An4Ef5fUm0DfqVLSlxR6uieOpDiHe9MDgqTzRRMUwIDAQAB",
+    "service_uri": "https://localhost:3000/rfc8181/ta/"
+  }
+}

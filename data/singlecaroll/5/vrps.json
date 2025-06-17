@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "generated": 1749213554,
+    "generatedTime": "2025-06-06T12:39:14Z"
+  }
+,
+  "roas": [
+    { "asn": "AS5", "prefix": "123.12.23.0/24", "maxLength": 24, "ta": "ta" },
+    { "asn": "AS6", "prefix": "123.12.23.0/24", "maxLength": 24, "ta": "ta" },
+    { "asn": "AS7", "prefix": "123.12.23.0/24", "maxLength": 24, "ta": "ta" },
+    { "asn": "AS5", "prefix": "123.12.34.0/24", "maxLength": 24, "ta": "ta" }
+  ]
+}
