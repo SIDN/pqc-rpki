@@ -2,7 +2,7 @@
 
 This repository contains the code and data used for the thesis "Post-Quantum Cryptography for the RPKI".
 
-You can find the thesis (TODO: here), and the shorter corresponding blog post [here](https://www.sidnlabs.nl/en/news-and-blogs/thesis-post-quantum-cryptography-for-the-rpki).
+You can find the thesis [here](https://www.sidnlabs.nl/downloads/6mCHukPGqoY0ojSMqfIadD/5af65340856d127bb5e771b5d62e239a/PQC_for_the_RPKI.pdf), and the shorter corresponding blog post [here](https://www.sidnlabs.nl/en/news-and-blogs/thesis-pqc-for-the-rpki).
 
 ## Proof-of-concept
 
